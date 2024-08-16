@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg0 {
+  background-color: white;
+}
+.bg1 {
+  background-color: rgba(255, 51, 0, 0.4);
+}
+.bg2 {
+  background-color: rgba(14, 228, 14, 0.4);
+}

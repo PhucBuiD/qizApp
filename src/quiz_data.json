@@ -1,0 +1,3002 @@
+[
+    {
+        "question": "Theo Quy định của EVN, thủ tục của ngành điện đối với việc giải quyết cấp điện cho khách hàng đấu nối lưới điện trung áp gồm bao nhiêu bước?",
+        "options": [
+            "Gồm 2 bước",
+            "Gồm 3 bước",
+            "Gồm 4 bước",
+            "Gồm 5 bước"
+        ],
+        "answer": "Gồm 2 bước"
+    },
+    {
+        "question": "Đơn vị Điện lực tiếp nhận yêu cầu cấp điện trung áp bằng các hình thức nào? ",
+        "options": [
+            "Tiếp nhận tại phòng giao dịch Điện lực, Tổng đài Trung tâm chăm sóc khách hàng, Trung tâm hành chính công, các hình thức trực tuyến",
+            "Chỉ tiếp nhận tại Trung tâm hành chính công ",
+            "Chỉ tiếp nhận qua các hình thức trực tuyến",
+            "Tiếp nhận tại trụ sở đơn vị Điện lực và Trung tâm hành chính công"
+        ],
+        "answer": "Tiếp nhận tại phòng giao dịch Điện lực, Tổng đài Trung tâm chăm sóc khách hàng, Trung tâm hành chính công, các hình thức trực tuyến"
+    },
+    {
+        "question": "Theo Quy định của EVN, dịch vụ cấp điện mới trung áp gồm các loại hình dịch vụ nào?",
+        "options": [
+            "Cấp điện sinh hoạt, cấp điện ngoài sinh hoạt, cấp điện mua buôn điện.",
+            "Cấp điện kinh doanh dịch vụ, cấp điện mua buôn điện.",
+            "Cấp điện mua buôn điện, Cấp điện sinh hoạt.",
+            "Cấp điện sinh hoạt, cấp điện sản xuất."
+        ],
+        "answer": "Cấp điện sinh hoạt, cấp điện ngoài sinh hoạt, cấp điện mua buôn điện."
+    },
+    {
+        "question": "Theo Quy định của EVN, Đơn vị nào chịu trách nhiệm khảo sát cấp điện cho khách hàng mua điện trung áp?",
+        "options": [
+            "Đơn vị Điện lực theo phân cấp của EVN ",
+            "Sở Xây dựng",
+            "Sở Kế hoạch Đầu tư",
+            "Sở Công thương"
+        ],
+        "answer": "Đơn vị Điện lực theo phân cấp của EVN "
+    },
+    {
+        "question": "Theo Quy định của EVN, Đơn vị nào có thẩm quyền ký thỏa thuận đấu nối với khách hàng mua điện trung áp?",
+        "options": [
+            "Đơn vị Điện lực theo phân cấp của EVN",
+            "Sở Xây dựng",
+            "Sở Kế hoạch Đầu tư",
+            "Sở Giao thông vận tải"
+        ],
+        "answer": "Đơn vị Điện lực theo phân cấp của EVN"
+    },
+    {
+        "question": "Theo Quy định của EVN, thời gian giải quyết dịch vụ cấp điện mới cho khách hàng trung áp là bao lâu?",
+        "options": [
+            "Không quá 30 ngày làm việc",
+            "Không quá 20 ngày làm việc",
+            "Không quá 10 ngày làm việc",
+            "Không quá 7 ngày làm việc"
+        ],
+        "answer": "Không quá 30 ngày làm việc"
+    },
+    {
+        "question": "Thời gian ngành điện giải quyết thủ tục cấp điện mới cho khách hàng trung áp trên địa bàn Tổng công ty Điện lực miền Bắc là bao lâu?",
+        "options": [
+            "Không quá 7 ngày làm việc",
+            "Không quá 10 ngày làm việc",
+            "Không quá 5 ngày làm việc",
+            "Không quá 3 ngày làm việc"
+        ],
+        "answer": "Không quá 7 ngày làm việc"
+    },
+    {
+        "question": "Khách hàng có thể thanh toán chi phí dịch vụ cấp điện trung áp bằng hình thức nào?",
+        "options": [
+            "Chuyển khoản, thanh toán trực tiếp tại Điện lực, trích nợ tự động.",
+            "Chỉ được thanh toán trực tiếp tại Điện lực",
+            "Chỉ được thanh toán bằng hình thức trích nợ tự động ",
+            "Chỉ được thanh toán qua đối tác trung gian"
+        ],
+        "answer": "Chuyển khoản, thanh toán trực tiếp tại Điện lực, trích nợ tự động."
+    },
+    {
+        "question": "Chi phí lắp đặt từ điểm đấu nối đến địa điểm sử dụng điện của khách hàng (trừ thiết bị đo đếm và thiết bị đóng cắt) do ai chịu trách nhiệm đầu tư và theo quy định nào?",
+        "options": [
+            "Khách hàng - Theo Luật Điện lực",
+            "Công ty Điện lực - Theo Quy trình Kinh doanh",
+            "Chính quyền địa phương - Theo Luật Điện lực",
+            "Khách hàng -Theo Nghị định 137/NĐ-CP"
+        ],
+        "answer": "Khách hàng - Theo Luật Điện lực"
+    },
+    {
+        "question": "Mẫu hợp đồng mua bán điện sinh hoạt do Cơ quan nào ban hành?",
+        "options": [
+            "Bộ Công Thương",
+            "Tập đoàn Điện lực Việt Nam ",
+            "Sở Công thương",
+            "Công ty Điện lực"
+        ],
+        "answer": "Bộ Công Thương"
+    },
+    {
+        "question": "Chọn địa chỉ đúng truy cập hệ thống CMIS ?",
+        "options": [
+            "http://10.21.51.18:7005/CMIS40",
+            "http://10.20.51.18:7005/CMIS40",
+            "http://21.10.51.18:7005/CMIS40",
+            "http://10.21.50.18:7005/CMIS40"
+        ],
+        "answer": "http://10.21.51.18:7005/CMIS40"
+    },
+    {
+        "question": "Các hình thức tiếp nhận yêu cầu dịch vụ điện nào sau đây được tính là tiếp nhận theo hình thức trực tuyến?",
+        "options": [
+            "Qua App/Web Chăm sóc khách hàng",
+            "Qua Quầy giao dịch",
+            "Qua Bưu điện",
+            "Tất cả các phương án trên"
+        ],
+        "answer": "Qua App/Web Chăm sóc khách hàng"
+    },
+    {
+        "question": "Trong quá trình vận hành chương trình phần mềm dùng chung lĩnh vực KD&DVKH của EVNNPC, khi gặp lỗi hay cần hỗ trợ, bạn gửi lỗi qua kênh chính thức nào?",
+        "options": [
+            "Nhập yêu cầu lỗi lên hệ thống https://dichvuit.npc.com.vn",
+            "Nhập yêu cầu lỗi lên hệ thống http://jira.npc.com.vn",
+            "Nhập yêu cầu lỗi lên hệ thống  https://sdp.evn.com.vn/",
+            "Nhắn lên các nhóm Zalo"
+        ],
+        "answer": "Nhập yêu cầu lỗi lên hệ thống https://dichvuit.npc.com.vn"
+    },
+    {
+        "question": "Trong quá trình sử dụng hệ thống CMIS, khi gặp lỗi hoặc có yêu cầu cần hỗ trợ, bạn sẽ gửi yêu cầu lên hệ thống https://dichvuit.npc.com.vn theo biểu mẫu nào sau đây?",
+        "options": [
+            "Biểu mẫu Dịch vụ Hỗ trợ phần mềm lĩnh vực Kinh doanh",
+            "Biểu mẫu Dịch vụ Hỗ trợ phần mềm lĩnh vực Kỹ thuật – Giám sát",
+            "Biểu mẫu Dịch vụ của Trung tâm Chăm sóc khách hàng",
+            "Biểu mẫu Dịch vụ Hỗ trợ phần mềm lĩnh vực Quản trị"
+        ],
+        "answer": "Biểu mẫu Dịch vụ Hỗ trợ phần mềm lĩnh vực Kinh doanh"
+    },
+    {
+        "question": "Khi bạn có 1 yêu cầu hỗ trợ gửi lên hệ thống https://dichvuit.npc.com.vn, cán bộ hỗ trợ xử lý mà kết quả bạn thấy chưa hài lòng thì bạn sẽ làm gì?",
+        "options": [
+            "Mở lại yêu cầu trong vòng 48 giờ.",
+            "Tạo một yêu cầu mới với nội dung tương tự",
+            "Phàn nàn với lãnh đạo quản lý",
+            "Tất cả các phương án trên"
+        ],
+        "answer": "Mở lại yêu cầu trong vòng 48 giờ."
+    },
+    {
+        "question": "Địa chỉ truy cập hệ thống Quan hệ khách hàng (CRM)?",
+        "options": [
+            " http://10.21.25.103/npccrm",
+            " http://10.21.25.103/crmnpc",
+            "http://10.21.25.103",
+            " http://Crm.npc.com.vn"
+        ],
+        "answer": " http://10.21.25.103/npccrm"
+    },
+    {
+        "question": "Để tìm kiếm phiếu yêu cầu sắp quá hạn xử lý trên hệ thống Quan hệ khách hàng (CRM) cần thao tác như thế nào?",
+        "options": [
+            "Đăng nhập vào hệ thống CRM - Vào menu Tìm phiếu yêu cầu -  Trạng thái phiếu - “sẽ quá hạn xử lý trong 30p”",
+            "Đăng nhập vào hệ thống CRM - Vào menu Tìm phiếu yêu cầu -  chọn trạng thái “tiếp nhận xử lý”",
+            "Đăng nhập vào hệ thống CRM - Vào menu Tìm phiếu yêu cầu -  chọn kênh liên lạc “Điện thoại”",
+            "Đăng nhập - Vào menu Tìm kiếm yêu cầu - Mã phiếu"
+        ],
+        "answer": "Đăng nhập vào hệ thống CRM - Vào menu Tìm phiếu yêu cầu -  Trạng thái phiếu - “sẽ quá hạn xử lý trong 30p”"
+    },
+    {
+        "question": "Kiểm tra hóa đơn chưa thanh toán của khách hàng ở chức năng nào trên hệ thống Quan hệ khách hàng (CRM)?",
+        "options": [
+            "Tab thông tin khách hàng/Thông tin nợ",
+            "Tab thông tin khách hàng /Lịch sử hóa đơn",
+            "Tab thông tin khách hàng /Điện năng tiêu thụ",
+            "Tab thông tin khách hàng/Thông tin thanh toán ngân hàng"
+        ],
+        "answer": "Tab thông tin khách hàng/Thông tin nợ"
+    },
+    {
+        "question": "Cần vào chức năng nào trên website của Trung tâm Chăm sóc khách hàng dể đăng ký lắp mới công tơ?",
+        "options": [
+            "Dịch vụ điện trực tuyến/Chọn dịch vụ cấp điện mới",
+            "Dịch vụ điện trực tuyến/Chọn dịch vụ điện theo phương thức điện tử/Chọn dịch vụ cấp điện từ lưới hạ áp",
+            "Truy cập trang: cskh.npc.com.vn/ Chọn dịch vụ điện theo phương thức điện tử",
+            "Dịch vụ điện trực tuyến/Chọn dịch vụ điện theo phương thức điện tử/ Chọn dịch vụ cấp điện mới"
+        ],
+        "answer": "Dịch vụ điện trực tuyến/Chọn dịch vụ cấp điện mới"
+    },
+    {
+        "question": "Vào chức năng nào trên Ứng dụng Chăm sóc khách hàng (App CSKH) để tra cứu sản lượng tiêu thụ điện trong ngày?",
+        "options": [
+            "Tra cứu/Điện năng tiêu thụ ngày",
+            "Tra cứu/ Tình hình tiêu thụ điện",
+            "Tra cứu/ Chỉ số công tơ",
+            "Tra cứu/Tra cứu chỉ số công tơ ngày"
+        ],
+        "answer": "Tra cứu/Điện năng tiêu thụ ngày"
+    },
+    {
+        "question": "Loại công tơ nào có thể thu thập dữ liệu điện năng tiêu thụ hằng ngày?",
+        "options": [
+            "Công tơ điện tử có đo xa",
+            "Công tơ 1 pha cơ khí",
+            "Công tơ điện tử không có chức năng đo xa",
+            "Công tơ 3 pha cơ khí"
+        ],
+        "answer": "Công tơ điện tử có đo xa"
+    },
+    {
+        "question": "Tài khoản CMIS Mobile đăng nhập sai mật khẩu quá mấy lần thì bị khóa?",
+        "options": [
+            "5 lần",
+            "2 lần",
+            "3 lần",
+            "1 lần"
+        ],
+        "answer": "5 lần"
+    },
+    {
+        "question": "Khi tài khoản CMIS Mobile bị khóa đơn vị cần làm gì để khôi phục lại tài khoản?",
+        "options": [
+            "Liên hệ quản trị CMIS để khôi phục tài khoản",
+            "Đăng nhập lại mật khẩu đúng.",
+            "Tạo tài khoản mới",
+            "Thay đổi địa chỉ đăng nhập CMIS"
+        ],
+        "answer": "Liên hệ quản trị CMIS để khôi phục tài khoản"
+    },
+    {
+        "question": "Hệ thống nào do Trung tâm Chăm sóc khách hàng quản lý theo dõi và hỗ trợ các đơn vị tiếp nhận các phiếu yêu cầu của khách hàng?",
+        "options": [
+            "CRM",
+            "Kho nợ",
+            "CMIS",
+            "EVNHES"
+        ],
+        "answer": "CRM"
+    },
+    {
+        "question": "Có bao nhiêu hình thức tiếp nhận yêu cầu cung cấp các Dịch vụ Điện lực từ khách hàng?",
+        "options": [
+            "03 hình thức",
+            "04 hình thức",
+            "02 hình thức",
+            "05 hình thức"
+        ],
+        "answer": "03 hình thức"
+    },
+    {
+        "question": "Hiện nay Tổng Công ty điện lực miền Bắc đang cung cấp bao nhiêu loại hình dịch vụ điện lực?",
+        "options": [
+            "13 loại hình",
+            "09 loại hình ",
+            "11 loại hình",
+            "07 loại hình"
+        ],
+        "answer": "13 loại hình"
+    },
+    {
+        "question": "Đối với dịch vụ quản lý cáp  viễn thông treo trên cột điện do Đơn vị/phòng ban nào là đầu mối tiếp nhận yêu cầu?",
+        "options": [
+            "Phòng Viễn thông & Công nghệ thông tin của Công ty Điện lực",
+            "Phòng Kỹ thuật của Công ty Điện lực",
+            "Phòng Kinh doanh của Công ty Điện lực",
+            "Phòng Kinh doanh/Kinh doanh tổng hợp của Điện lực"
+        ],
+        "answer": "Phòng Viễn thông & Công nghệ thông tin của Công ty Điện lực"
+    },
+    {
+        "question": "Các hình thức tiếp nhận yêu cầu cung cấp dịch vụ điện lực?",
+        "options": [
+            "Hình thức trực tuyến, hình thức trực tiếp, qua Tổng đài Chăm sóc khách hàng, qua CBCNV, đối tác…",
+            "Qua Tổng đài Chăm sóc khách hàng, qua CBCNV, đối tác",
+            "Hình thức trực tiếp tại các điểm giao dịch khách hàng.",
+            "Qua Tổng đài Chăm sóc khách hàng, qua CBCNV"
+        ],
+        "answer": "Hình thức trực tuyến, hình thức trực tiếp, qua Tổng đài Chăm sóc khách hàng, qua CBCNV, đối tác…"
+    },
+    {
+        "question": "Các hợp đồng dịch vụ điện lực liên quan đến lưới điện 110kV do Đơn vị nào ký kết hợp đồng?",
+        "options": [
+            "Công ty Điện lực",
+            "Trung tâm thí nghiệm Điện ",
+            "Xí nghiệp lưới điện cao thế ",
+            "Điện lực"
+        ],
+        "answer": "Công ty Điện lực"
+    },
+    {
+        "question": "Điện lực được phân cấp ký kết hợp đồng dịch vụ điện lực như thế nào?",
+        "options": [
+            "Ký hợp đồng tất cả các dịch vụ điện lực liên quan của các công trình điện trung áp đến điện áp 35kV có công suất ≤ 2.000kVA và lưới điện 0,4kV",
+            "Ký hợp đồng tất cả các dịch vụ điện lực liên quan của các công trình điện có cấp điện áp đến 110kV.",
+            "Ký hợp đồng tất cả các dịch vụ điện lực liên quan của các công trình điện trung áp đến điện áp 35kV và lưới điện 0,4kV không giới hạn công suất.",
+            "Ký hợp đồng tất cả các dịch vụ điện lực liên quan của các công trình điện trung áp đến điện áp 35kV và lưới điện 0,4kV"
+        ],
+        "answer": "Ký hợp đồng tất cả các dịch vụ điện lực liên quan của các công trình điện trung áp đến điện áp 35kV có công suất ≤ 2.000kVA và lưới điện 0,4kV"
+    },
+    {
+        "question": "Công ty Điện lực có trách nhiệm thẩm tra kế hoạch sản xuất kinh doanh dịch vụ điện lực của các Đơn vị thành viên và báo cáo Tổng công ty trước ngày nào?",
+        "options": [
+            "Ngày 15/7 năm N-1",
+            "Ngày 15/8 năm N-1",
+            "Ngày 15/9 năm N-1",
+            "Ngày 15/6 năm N-1"
+        ],
+        "answer": "Ngày 15/7 năm N-1"
+    },
+    {
+        "question": "Khách hàng đã ký hợp đồng quản lý vận hành với ngành Điện, khi cần ngừng cấp điện để sửa chữa (theo kiến nghị của Điện lực) thì có mất chi phí đóng/ cắt điện không?",
+        "options": [
+            "Khách hàng mất chi phí cắt và đóng điện",
+            "Khách hàng chỉ mất chi phí đóng điện",
+            "Khách hàng chỉ mất chi phí cắt điện",
+            "Khách hàng không mất chi phí"
+        ],
+        "answer": "Khách hàng mất chi phí cắt và đóng điện"
+    },
+    {
+        "question": "Việc tính toán xây dựng đơn giá đối với loại hình “Lắp đặt – sửa chữa dây ra sau công tơ” đang dựa trên văn bản hướng dẫn nào của Tổng công ty?",
+        "options": [
+            "Văn bản số 1345/EVNNPC-ĐT ngày 25/03/2022",
+            "Văn bản số 3665/EVNNPC-ĐT ngày 26/7/2022",
+            "Văn bản số 2486/EVNNPC-ĐT ngày 17/5/2021",
+            "Theo QĐ 3122/QĐ-EVNNPC ngày 20/12/2023"
+        ],
+        "answer": "Văn bản số 1345/EVNNPC-ĐT ngày 25/03/2022"
+    },
+    {
+        "question": "Kiểm định an toàn kỹ thuật các thiết bị điện có những hình thức nào?",
+        "options": [
+            "Kiểm định lần đầu, kiểm định định kỳ, kiểm định bất thường.",
+            "Kiểm định lần đầu, kiểm định bất thường.",
+            "Kiểm định định kỳ, kiểm định bất thường.",
+            "Kiểm định lần đầu."
+        ],
+        "answer": "Kiểm định lần đầu, kiểm định định kỳ, kiểm định bất thường."
+    },
+    {
+        "question": "Khách hàng có bắt buộc phải thực hiện kiểm định an toàn kỹ thuật định kỳ không?",
+        "options": [
+            "Khách hàng bắt buộc phải thực hiện",
+            "Khách hàng không bắt buộc phải thực hiện",
+            "Khách hàng căn cứ theo yêu cầu của Chính quyền địa phương",
+            "Theo yêu cầu của Sở Công Thương"
+        ],
+        "answer": "Khách hàng bắt buộc phải thực hiện"
+    },
+    {
+        "question": "Các Công ty Điện lực muốn đủ điều kiện thực hiện dịch vụ tư vấn thiết kế, tư vấn giám sát các công trình Điện phải đảm bảo các điều kiện pháp lý nào?",
+        "options": [
+            "Đăng ký kinh doanh; Chứng chỉ hành nghề tư vấn thiết kế, tư vấn giám sát các công trình Điện của tổ chức và cá nhân; Giấy phép hoạt động điện lực.",
+            "Chứng chỉ hành nghề hoạt động xây dựng; Giấy phép hoạt động điện lực.",
+            "Đăng ký kinh doanh; Chứng chỉ hành nghề hoạt động xây dựng",
+            "Giấy phép hoạt động điện lực"
+        ],
+        "answer": "Đăng ký kinh doanh; Chứng chỉ hành nghề tư vấn thiết kế, tư vấn giám sát các công trình Điện của tổ chức và cá nhân; Giấy phép hoạt động điện lực."
+    },
+    {
+        "question": "Trường hợp khách hàng tự thực hiện lắp đặt dây sau công tơ, chi phí nghiệm thu dây sau công tơ đối với phần dây dẫn khách hàng tự mua thuộc trách nhiệm của bên nào?",
+        "options": [
+            "Trách nhiệm của khách hàng",
+            "Trách nhiệm của đơn vị ngành Điện",
+            "Trách nhiệm của đơn vị bán hàng",
+            "Không bên nào có trách nhiệm thanh toán chi phí nghiệm thu"
+        ],
+        "answer": "Trách nhiệm của khách hàng"
+    },
+    {
+        "question": "Khách hàng có bắt buộc phải biên soạn “quy trình vận hành, thí nghiệm, bảo dưỡng sửa chữa thiết bị và lưới điện” thuộc tài sản của mình không?",
+        "options": [
+            "Khách hàng bắt buộc phải biên soạn quy trình “quy trình vận hành, thí nghiệm, bảo dưỡng sửa chữa thiết bị và lưới điện\"",
+            "Khách hàng không bắt buộc phải biên soạn quy trình.",
+            "Điện lực phải biên soạn quy trình “quy trình vận hành, thí nghiệm, bảo dưỡng sửa chữa thiết bị và lưới điện\"",
+            "Sở Công Thương phải biên soạn quy trình “quy trình vận hành, thí nghiệm, bảo dưỡng sửa chữa thiết bị và lưới điện\""
+        ],
+        "answer": "Khách hàng bắt buộc phải biên soạn quy trình “quy trình vận hành, thí nghiệm, bảo dưỡng sửa chữa thiết bị và lưới điện\""
+    },
+    {
+        "question": "Ưu điểm tuyệt đối mà khách hàng nhận được khi sử dụng loại hình dịch vụ Hotline là gì?",
+        "options": [
+            "Tất cả các đáp án",
+            "Không phải cắt điện khi thực hiện công việc nên không làm gián đoạn sản xuất của khách hàng",
+            "Giá dịch vụ canh tranh, tiết kiệm chi phí cho khách hàng",
+            "Thực hiện thao tác nhanh chóng, không làm mất thời gian của khách hàng"
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Giấy chứng nhận đăng ký hoạt động kiểm định theo Thông tư số 33/2015/TT-BCT do Bộ Công thương cấp cho Công ty Điện lực được thực hiện trong hoạt động nào?",
+        "options": [
+            "Công tác kiểm định kỹ thuật an toàn thiết bị",
+            "Công tác kiểm định thiết bị đo lường",
+            "Công tác thí nghiệm hiệu chỉnh",
+            "Tất cả các phương án trên"
+        ],
+        "answer": "Công tác kiểm định kỹ thuật an toàn thiết bị"
+    },
+    {
+        "question": "Giấy chứng nhận đăng ký hoạt động kiểm định theo Nghị định 105/2016/NĐ-CP do Tổng cục tiêu chuẩn đo lường chất lượng cấp cho Công ty Điện lực được thực hiện trong hoạt động nào?",
+        "options": [
+            "Công tác kiểm định thiết bị đo lường",
+            "Công tác thí nghiệm hiệu chỉnh",
+            "Công tác kiểm định an toàn thiết bị",
+            "Tất cả các phương án trên"
+        ],
+        "answer": "Công tác kiểm định thiết bị đo lường"
+    },
+    {
+        "question": "Áp dụng giá bán lẻ điện theo Thông tư số 16/2014/TT-BCT ngày 29/05/2014 được thực hiện như thế nào?",
+        "options": [
+            "Giá bán điện phải áp dụng theo đúng đối tượng và mục đích sử dụng điện; Bên mua điện có trách nhiệm kê khai đúng mục đích sử dụng điện để tính giá bán điện theo quy định của Thông tư quy định về thực hiện giá bán điện.",
+            "Giá bán điện phải áp dụng theo đúng đối tượng và mục đích sử dụng điện theo quy định tại Thông tư quy định về thực hiện giá bán điện.",
+            "Giá bán điện áp dụng theo đề nghị của bên mua điện.",
+            "Giá bán điện áp dụng theo đề nghị của bên bán điện."
+        ],
+        "answer": "Giá bán điện phải áp dụng theo đúng đối tượng và mục đích sử dụng điện; Bên mua điện có trách nhiệm kê khai đúng mục đích sử dụng điện để tính giá bán điện theo quy định của Thông tư quy định về thực hiện giá bán điện."
+    },
+    {
+        "question": "Mức giá điện bậc thang được áp dụng cho mục đích sử dụng nào?",
+        "options": [
+            "Sinh hoạt",
+            "Kinh doanh dịch vụ",
+            "Sản xuất công nghiệp",
+            "Cơ quan hành chính, sự nghiệp"
+        ],
+        "answer": "Sinh hoạt"
+    },
+    {
+        "question": "Giá điện bậc thang theo quy định hiện hành có mấy bậc?",
+        "options": [
+            "6 bậc",
+            "3 bậc",
+            "4 bậc",
+            "5 bậc"
+        ],
+        "answer": "6 bậc"
+    },
+    {
+        "question": "Hộ gia đình sử dụng từ 51 đến 100 kWh/tháng sẽ phải trả giá điện theo bậc thang nào?",
+        "options": [
+            "Bậc 1 và Bậc 2",
+            "Bậc 1",
+            "Bậc 2",
+            "Bậc 3"
+        ],
+        "answer": "Bậc 1 và Bậc 2"
+    },
+    {
+        "question": "Theo quy định hiện hành, giá điện thấp nhất được áp dụng cho đối tượng khách hàng nào?",
+        "options": [
+            "Khách hàng sử dụng điện sản xuất",
+            "Hộ gia đình",
+            "Chiếu sáng công cộng",
+            "Cơ quan hành chính, sự nghiệp"
+        ],
+        "answer": "Khách hàng sử dụng điện sản xuất"
+    },
+    {
+        "question": "Giá bán lẻ điện tại Việt Nam chịu ảnh hưởng của yếu tố nào nhiều nhất?",
+        "options": [
+            "Chi phí sản xuất điện",
+            "Chi phí mua sắm vật tư thiết bị",
+            "Chi phí mua điện mặt trời mái nhà",
+            "Tổn thất lưới điện"
+        ],
+        "answer": "Chi phí sản xuất điện"
+    },
+    {
+        "question": "Giá bán lẻ điện cho sản xuất được xác định theo yếu tố nào?",
+        "options": [
+            "Theo cấp điện áp và thời gian sử dụng điện trong ngày (TOU)",
+            "Theo thời gian sử dụng điện trong ngày (TOU)",
+            "Theo cấp điện áp",
+            "Theo sản lượng điện tiêu thụ"
+        ],
+        "answer": "Theo cấp điện áp và thời gian sử dụng điện trong ngày (TOU)"
+    },
+    {
+        "question": "Khách hàng được áp dụng giá bán điện theo thời gian sử dụng điện trong ngày gồm những đối tượng nào?",
+        "options": [
+            "Tất cả các đáp án",
+            "Nhóm đối tượng khách hàng sản xuất",
+            "Nhóm đối tượng khách hàng kinh doanh dịch vụ, lưu trú du lịch",
+            "Nhóm đối tượng khách hàng mua buôn bán lẻ điện ngoài mục đích sinh hoạt tại tổ hợp thương mại- dịch vụ-sinh hoạt"
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Khung giờ cao điểm được quy định như thế nào tại Thông tư số 16/2014/TT-BCT ngày 29/05/2014?",
+        "options": [
+            "Gồm từ thứ Hai đến thứ Bảy: từ 09h30 đến 11h30 và từ 17h00 đến 20h00; ngày Chủ nhật không có giờ cao điểm.",
+            "Gồm từ thứ Hai đến thứ Bảy: từ 12h00 đến 15h00 và từ 21h00 đến 24h00; ngày Chủ nhật không có giờ cao điểm",
+            "Gồm từ thứ Hai đến Chủ Nhật: 12h00 đến 15h00 và từ 21h00 đến 24h00",
+            "Gồm từ thứ Hai đến Chủ Nhật: từ 9h30 đến 11h30 và từ 17h00 đến 20h00"
+        ],
+        "answer": "Gồm từ thứ Hai đến thứ Bảy: từ 09h30 đến 11h30 và từ 17h00 đến 20h00; ngày Chủ nhật không có giờ cao điểm."
+    },
+    {
+        "question": "Đối tượng nào được hưởng kinh phí hỗ trợ tiền điện được trích từ nguồn ngân sách Nhà nước?",
+        "options": [
+            "Hộ nghèo và Hộ chính sách xã hội (không thuộc diện hộ nghèo được hỗ trợ) theo tiêu chí do Thủ tướng Chính phủ quy định và có lượng điện sử dụng cho mục đích sinh hoạt trong tháng không quá 50 kWh.",
+            "Hộ nghèo theo tiêu chí do Chủ tịch Ủy ban Nhân dân tỉnh/thành phố quy định",
+            "Hộ chính sách xã hội theo tiêu chí do Chủ tịch Ủy ban Nhân dân tỉnh/thành phố quy định",
+            "Những hộ sử dụng điện có lượng điện cho mục đích sinh hoạt trong tháng không quá 50 kWh/tháng do ngành Điện quyết định"
+        ],
+        "answer": "Hộ nghèo và Hộ chính sách xã hội (không thuộc diện hộ nghèo được hỗ trợ) theo tiêu chí do Thủ tướng Chính phủ quy định và có lượng điện sử dụng cho mục đích sinh hoạt trong tháng không quá 50 kWh."
+    },
+    {
+        "question": "Giá bán lẻ điện bán cho trụ sở các Điện lực được áp dụng theo giá nào?",
+        "options": [
+            "Giá Kinh doanh",
+            "Giá sản xuất",
+            "Giá hành chính sự nghiệp",
+            "Giá sinh hoạt"
+        ],
+        "answer": "Giá Kinh doanh"
+    },
+    {
+        "question": "Khách hàng được áp dụng giá bán điện theo cấp điện áp bao gồm những đối tượng nào?",
+        "options": [
+            "Tất cả các đáp án",
+            "Khách hàng sử dụng điện cho mục đích kinh doanh dịch vụ",
+            "Khách hàng sử dụng điện cho mục đích sản xuất, hành chính sự nghiệp",
+            "Đơn vị bán lẻ điện tại khu công nghiệp, cụm công nghiệp"
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Khung giờ thấp điểm được quy định như thế nào tại Thông tư số 16/2014/TT-BCT ngày 29/05/2014?",
+        "options": [
+            "Tất cả các ngày trong tuần: từ 22h00 đến 04h00 sáng ngày hôm sau",
+            "Tất cả các ngày trong tuần: từ 0h00 đến 04h00",
+            "Thứ Hai đến thứ Bảy: từ 22h00 đến 04h00 sáng ngày hôm sau; và Chủ Nhật từ 20h00 đến 04h00 sáng hôm sau",
+            "Thứ Hai đến thứ Bảy: từ 21h00 đến 04h00 sáng ngày hôm sau; và Chủ Nhật từ 20h00 đến 04h sáng hôm sau"
+        ],
+        "answer": "Tất cả các ngày trong tuần: từ 22h00 đến 04h00 sáng ngày hôm sau"
+    },
+    {
+        "question": "Giá bán điện cho các tổ chức bảo hiểm y tế, bảo hiểm xã hội được áp giá nào?",
+        "options": [
+            "Giá hành chính sự nghiệp",
+            "Giá Kinh doanh",
+            "Giá sản xuất",
+            "Giá sinh hoạt"
+        ],
+        "answer": "Giá hành chính sự nghiệp"
+    },
+    {
+        "question": "Giá bán điện cho khối cơ quan, hành chính sự nghiệp được xác định theo điều kiện nào?",
+        "options": [
+            "Theo cấp điện áp",
+            "Theo mức tiêu thụ điện",
+            "Theo thời gian sử dụng điện trong ngày",
+            "Theo cấp điện áp và theo thời gian sử dụng điện trong ngày"
+        ],
+        "answer": "Theo cấp điện áp"
+    },
+    {
+        "question": "Đối tượng nào được áp dụng giá bán buôn điện (chọn đáp án đầy đủ nhất) ?",
+        "options": [
+            "Đơn vị bán lẻ điện tại khu vực nông thôn, khu tập thể, cụm dân cư, tổ hợp thương mại - dịch vụ - sinh hoạt, các khu công nghiệp mà đáp ứng đủ điều kiện theo quy định.",
+            "Đơn vị bán lẻ điện tại khu vực nông thôn, khu tập thể, cụm dân cư, các khu công nghiệp",
+            "Đơn vị bán lẻ điện tại khu vực nông thôn, khu tập thể, cụm dân cư, tổ hợp thương mại - dịch vụ - sinh hoạt.",
+            "Đơn vị bán lẻ điện tại khu vực nông thôn, tổ hợp thương mại - dịch vụ - sinh hoạt, các khu công nghiệp"
+        ],
+        "answer": "Đơn vị bán lẻ điện tại khu vực nông thôn, khu tập thể, cụm dân cư, tổ hợp thương mại - dịch vụ - sinh hoạt, các khu công nghiệp mà đáp ứng đủ điều kiện theo quy định."
+    },
+    {
+        "question": "Bên mua điện có mục đích sử dụng cho các tổng đài, mạng truyền dẫn, trạm thu, phát sóng thuộc các công ty viễn thông, công ty truyền hình được áp giá bán điện như thế nào?",
+        "options": [
+            "Giá bán điện cho sản xuất",
+            "Giá bán điện cho khối hành chính, sự nghiệp",
+            "Giá bán điện cho kinh doanh",
+            "Giá bán điện cho sinh hoạt"
+        ],
+        "answer": "Giá bán điện cho sản xuất"
+    },
+    {
+        "question": "Cơ sở sửa chữa, tân trang ô tô, xe máy, phương tiện vận tải, hàng tiêu dùng và đồ dùng gia đình được áp giá bán điện như thế nào?",
+        "options": [
+            "Giá bán điện cho kinh doanh",
+            "Giá bán điện cho khối hành chính, sự nghiệp",
+            "Giá bán điện cho sản xuất",
+            "Giá bán điện cho sinh hoạt"
+        ],
+        "answer": "Giá bán điện cho kinh doanh"
+    },
+    {
+        "question": "Các kho dự trữ quốc gia được áp giá bán điện như thế nào?",
+        "options": [
+            "Giá bán điện cho khối hành chính, sự nghiệp",
+            "Giá bán điện cho sản xuất",
+            "Giá bán điện cho kinh doanh",
+            "Giá bán điện cho sinh hoạt"
+        ],
+        "answer": "Giá bán điện cho khối hành chính, sự nghiệp"
+    },
+    {
+        "question": "Sau khi ký kết Hợp đồng/Thỏa thuận DR, đơn vị Điện lực có trách nhiệm gì?",
+        "options": [
+            "Cập nhật đầy đủ thông tin của khách hàng vào phần mềm DRMS",
+            "Không cần cập nhật đầy đủ thông tin của khách hàng vào phần mềm DRMS",
+            "Chỉ cần cập nhật tên khách hàng vào phần mềm DRMS",
+            "Chỉ cần cập nhật mã khách hàng vào phần mềm DRMS"
+        ],
+        "answer": "Cập nhật đầy đủ thông tin của khách hàng vào phần mềm DRMS"
+    },
+    {
+        "question": "Theo quy trình dự báo phụ tải của EVN, tiêu chí lựa chọn khách hàng thuộc nhóm các khách hàng lớn là gì?",
+        "options": [
+            "Khách hàng có sản lượng điện thương phẩm năm liền kề trước năm hiện tại ≥ 1 triệu kWh",
+            "Không đáp án nào đúng",
+            "Khách hàng phát sinh mới năm hiện tại có lũy kế điện thương phẩm trong năm đến thời điểm dự báo ≥ 1,5 triệu kWh",
+            "Khách hàng mới dự kiến sẽ ký hợp đồng sử dụng điện trong tháng dự báo qua khảo sát có sản lượng điện tiêu thụ < 1 triệu kWh/năm"
+        ],
+        "answer": "Khách hàng có sản lượng điện thương phẩm năm liền kề trước năm hiện tại ≥ 1 triệu kWh"
+    },
+    {
+        "question": "Phần mềm quản lý thực hiện chương trình điều chỉnh phụ tải điện (DRMS) là?",
+        "options": [
+            "Là một công cụ quản lý, theo dõi, đánh giá kết quả thực hiện chương trình điều chỉnh phụ tải điện phục vụ công tác hỗ trợ và giám sát việc thực hiện chương trình điều chỉnh phụ tải điện",
+            "Là công cụ, quản lý số lượng công tơ điện tử",
+            "Cả 2 ý đều đúng",
+            "nan"
+        ],
+        "answer": "Là một công cụ quản lý, theo dõi, đánh giá kết quả thực hiện chương trình điều chỉnh phụ tải điện phục vụ công tác hỗ trợ và giám sát việc thực hiện chương trình điều chỉnh phụ tải điện"
+    },
+    {
+        "question": "Quy trình dự báo phụ tải được thực hiện tại những đơn vị nào?",
+        "options": [
+            "Cả 3 đáp án ",
+            "Tổng Công ty",
+            "Công ty điện lực",
+            "Điện lực"
+        ],
+        "answer": "Cả 3 đáp án "
+    },
+    {
+        "question": "Phạm vi áp dụng của phương pháp dự báo phụ tải được quy định trong quy trình kinh doanh là gì?",
+        "options": [
+            "Dự báo điện thương phẩm tháng",
+            "Dự báo điện thương phẩm của khách hàng chiếu sáng công cộng",
+            "Dự báo điện thương phẩm của toàn bộ khách hàng sinh hoạt",
+            "Cả 3 đáp án "
+        ],
+        "answer": "Dự báo điện thương phẩm tháng"
+    },
+    {
+        "question": "Chương trình Điều chỉnh phụ tải điện (DR)  là chương trình gì ?",
+        "options": [
+            "Là chương trình khuyến khích khách hàng chủ động điều chỉnh giảm nhu cầu sử dụng điện để giảm công suất cực đại vào giờ cao điểm của hệ thống điện, giảm tình trạng lưới điện bị quá tải hoặc nâng cao hiệu quả kinh tế của hệ thống điện",
+            "Là chương trình bắt buộc khách hàng điều chỉnh giảm nhu cầu sử dụng điện để giảm công suất cực đại vào giờ cao điểm của hệ thống điện, giảm tình trạng lưới điện bị quá tải hoặc nâng cao hiệu quả kinh tế của hệ thống điện",
+            "Là chương trình khuyến khích khách hàng tắt tất cả các thiết bị điện vào giờ cao điểm của hệ thống",
+            "Là chương trình bắt buộc khách hàng tắt tất cả các thiết bị điện vào giờ cao điểm của hệ thống"
+        ],
+        "answer": "Là chương trình khuyến khích khách hàng chủ động điều chỉnh giảm nhu cầu sử dụng điện để giảm công suất cực đại vào giờ cao điểm của hệ thống điện, giảm tình trạng lưới điện bị quá tải hoặc nâng cao hiệu quả kinh tế của hệ thống điện"
+    },
+    {
+        "question": "Chương trình điều chỉnh phụ tải (DR) theo kế hoạch?",
+        "options": [
+            "Là chương trình DR được thực hiện theo kế  hoạch đã xây dựng trước, các khách hàng tham gia chương trình được Đơn vị Điện lực thông báo đề nghị tham gia chương trình trước ngày thực hiện sự kiện DR",
+            "Là chương trình DR được thực hiện theo kế hoạch đã xây dựng trước, các khách hàng tham gia chương trình được Đơn vị Điện lực thông báo đề nghị tham gia chương trình sau sự kiện thực hiện DR",
+            "Là chương trình DR được thực hiện khẩn cấp có thông báo trước 01 tiếng khi thực hiện sự kiện DR",
+            "Cả 3 đáp án "
+        ],
+        "answer": "Là chương trình DR được thực hiện theo kế  hoạch đã xây dựng trước, các khách hàng tham gia chương trình được Đơn vị Điện lực thông báo đề nghị tham gia chương trình trước ngày thực hiện sự kiện DR"
+    },
+    {
+        "question": "Chương trình DR khẩn cấp?",
+        "options": [
+            "Là chương trình DR được thực hiện trong điều kiện khi hệ thống điện xảy ra sự cố và các nguồn điện đã được huy động hết công suất nhưng có khả năng không đáp ứng phụ tải và có thể ảnh hưởng đến an ninh hệ thống điện và khách hàng được Đơn vị Điện lực thông báo lần đầu đề nghị tham gia chậm nhất 17h00 trước ngày thực hiện sự kiện DR khẩn cấp",
+            "Là chương trình DR được thực hiện trong điều kiện khi thời tiết mưa nhiều. Đơn vị Điện lực thông báo thực hiện sự kiện DR khẩn cấp",
+            "Là chương trình DR được thực hiện trong điều kiện khi hệ thống điện không xảy ra sự cố và các nguồn điện đã được huy động hết công suất nhưng có khả năng không đáp ứng phụ tải và có thể ảnh hưởng đến an ninh hệ thống điện và khách hàng được Đơn vị Điện lực thông báo lần đầu đề nghị tham gia chậm nhất 24h00 trước ngày thực hiện sự kiện DR khẩn cấp",
+            "Cả 3 đáp án "
+        ],
+        "answer": "Là chương trình DR được thực hiện trong điều kiện khi hệ thống điện xảy ra sự cố và các nguồn điện đã được huy động hết công suất nhưng có khả năng không đáp ứng phụ tải và có thể ảnh hưởng đến an ninh hệ thống điện và khách hàng được Đơn vị Điện lực thông báo lần đầu đề nghị tham gia chậm nhất 17h00 trước ngày thực hiện sự kiện DR khẩn cấp"
+    },
+    {
+        "question": "Chương trình DR tự nguyện phi thương mại?",
+        "options": [
+            "Là chương trình DR được thực hiện dựa vào sự hợp tác, tự nguyện tham gia của khách hàng sử dụng điện",
+            "Là chương trình bắt buộc khách hàng thực hiện",
+            "Là chương trình do Đơn vị Điện lực yêu cầu thực hiện",
+            "Cả 3 đáp án "
+        ],
+        "answer": "Là chương trình DR được thực hiện dựa vào sự hợp tác, tự nguyện tham gia của khách hàng sử dụng điện"
+    },
+    {
+        "question": "Trước và sau sự kiện DR có phải thông báo cho khách hàng không?",
+        "options": [
+            "Phải thông báo cho khách hàng trước và sau sự kiện DR",
+            "Chỉ cần thông báo cho khách hàng trước khi có sự kiện DR",
+            "Chỉ cần thông báo cho khách hàng sau khi kết thúc sự kiện DR",
+            "Không cần thông báo cho khách hàng trước và sau sự kiện DR"
+        ],
+        "answer": "Phải thông báo cho khách hàng trước và sau sự kiện DR"
+    },
+    {
+        "question": " Các khách hàng thuộc đối tượng tham gia chương trình Điều chỉnh phụ tải?",
+        "options": [
+            "Khách hàng đã hoặc có khả năng tiêu thụ điện năng trung bình năm ≥ 1.000.000kWh/năm. Đơn vị Điện lực có thể lựa chọn các khách hàng có tiềm năng tiết giảm không thuộc đối tượng để thuyết phục tham gia chương trình",
+            "Chỉ thực hiện đối với khách hàng tiêu thụ điện năng trung bình năm ≥ 1.500.000kWh/năm",
+            "Chỉ thực hiện đối với khách hàng tiêu thụ điện năng trung bình năm < 1.000.000kWh/năm",
+            "Tất cả các đáp án"
+        ],
+        "answer": "Khách hàng đã hoặc có khả năng tiêu thụ điện năng trung bình năm ≥ 1.000.000kWh/năm. Đơn vị Điện lực có thể lựa chọn các khách hàng có tiềm năng tiết giảm không thuộc đối tượng để thuyết phục tham gia chương trình"
+    },
+    {
+        "question": "Thỏa thuận tham gia chương trình điều chỉnh phụ tải điện là?",
+        "options": [
+            "Là thỏa thuận giữa khách hàng tham gia chương trình và Đơn vị Điện lực thực hiện chương trình DR tự nguyện phi thương mại",
+            "Là thỏa thuận giữa khách hàng tham gia chương trình và Đơn vị Điện lực thực hiện chương trình DR thương mại",
+            "Cả 2 đáp án đều đúng",
+            "nan"
+        ],
+        "answer": "Là thỏa thuận giữa khách hàng tham gia chương trình và Đơn vị Điện lực thực hiện chương trình DR tự nguyện phi thương mại"
+    },
+    {
+        "question": "Sự kiện điều chỉnh phụ tải điện là?",
+        "options": [
+            "Là khoảng thời gian mà khách hàng tham gia chương trình thực hiện điều chỉnh giảm nhu cầu sử dụng điện của mình sau khi nhận được thông báo của Đơn vị Điện lực",
+            "Là khoảng thời gian mà khách hàng tham gia chương trình thực hiện điều chỉnh giảm nhu cầu sử dụng điện của mình trong bất kỳ thời điểm nào",
+            "Cả 2 đáp án đều đúng",
+            "nan"
+        ],
+        "answer": "Là khoảng thời gian mà khách hàng tham gia chương trình thực hiện điều chỉnh giảm nhu cầu sử dụng điện của mình sau khi nhận được thông báo của Đơn vị Điện lực"
+    },
+    {
+        "question": "Khách hàng tham gia chương trình điều chỉnh phụ tải điện là?",
+        "options": [
+            "Là khách hàng sử dụng điện ký kết Hợp đồng hoặc Thỏa thuận tham gia chương trình DR với Đơn vị Điện lực để tham gia vào các Chương trình DR",
+            "Là tất cả các khách hàng sử dụng điện",
+            "Cả 2 đáp án đều đúng",
+            "nan"
+        ],
+        "answer": "Là khách hàng sử dụng điện ký kết Hợp đồng hoặc Thỏa thuận tham gia chương trình DR với Đơn vị Điện lực để tham gia vào các Chương trình DR"
+    },
+    {
+        "question": "Căn cứ theo công suất DR được phân bổ từng sự kiện, lựa chọn khách hàng theo tiêu chí?",
+        "options": [
+            "Cả 3 đáp án ",
+            "Đã ký thỏa thuận DR",
+            "Chưa tham gia sự kiện DR trước đó hoặc tham gia nhưng không tiết giảm theo yêu cầu ",
+            "Đã tham gia sự kiện DR trước đó và tự nguyện tiếp tục tham gia"
+        ],
+        "answer": "Cả 3 đáp án "
+    },
+    {
+        "question": "Đơn vị nào có trách nhiệm đầu tư và lắp đặt toàn bộ các thiết bị đo đếm và thiết bị phụ trợ cho việc đo đếm điện?",
+        "options": [
+            "Tất cả các đáp án",
+            "Đơn vị phát điện",
+            "Đơn vị phân phối điện",
+            "Đơn vị truyền tải điện"
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Thiết bị đo đếm điện phải bảo đảm những yêu cầu như thế nào?",
+        "options": [
+            "Cả 3 đáp án ",
+            "Đảm bảo yêu cầu kỹ thuật đo lường",
+            "Được kiểm định",
+            "Được hiệu chuẩn, thử nghiệm theo quy định của pháp luật về đo lường"
+        ],
+        "answer": "Cả 3 đáp án "
+    },
+    {
+        "question": "Công tơ phải được lắp đặt trong khu vực do đơn vị nào quản lý (ngoại trừ các trường hợp có thỏa thuận khác)?",
+        "options": [
+            "Bên mua điện",
+            "Đơn vị phát điện, truyền tải điện, phân phối điện",
+            "Công ty Điện lực",
+            "Đơn vị truyền tải điện"
+        ],
+        "answer": "Bên mua điện"
+    },
+    {
+        "question": "Vị trí lắp đặt và việc lắp đặt công tơ phải bảo đảm những yêu cầu gì?",
+        "options": [
+            "Cả 3 đáp án ",
+            "An toàn, mỹ quan",
+            "Thuận lợi cho bên mua điện kiểm tra chỉ số công tơ",
+            "Thuận lợi cho bên bán điện ghi chỉ số công tơ"
+        ],
+        "answer": "Cả 3 đáp án "
+    },
+    {
+        "question": "Trách nhiệm bảo vệ công tơ của bên mua điện?",
+        "options": [
+            "Bên mua điện có trách nhiệm bảo vệ công tơ lắp đặt trong khu vực quản lý của mình và thông báo kịp thời cho bên bán điện khi phát hiện công tơ bị mất hoặc bị hỏng",
+            "Bên bán điện có trách nhiệm bảo vệ công tơ đã lắp đặt cho mua điện",
+            "Bên  mua điện bảo vệ công tơ lắp đặt bên ngoài khu vực quản lý của mình và thông báo kịp thời  cho bên bán điện khi phát hiện công tơ bị mất hoặc bị hỏng",
+            "nan"
+        ],
+        "answer": "Bên mua điện có trách nhiệm bảo vệ công tơ lắp đặt trong khu vực quản lý của mình và thông báo kịp thời cho bên bán điện khi phát hiện công tơ bị mất hoặc bị hỏng"
+    },
+    {
+        "question": "Trách nhiệm bảo vệ công tơ của bên bán điện?",
+        "options": [
+            "Bên bán điện có trách nhiệm bảo vệ công tơ lắp đặt ở ngoài khu vực quản lý của bên mua điện",
+            "Bên mua điện và bên bán điện đều có trách nhiệm bảo vệ công tơ lắp đặt trong  khu vực quản lý của khách hàng mua điện",
+            "Bên bán điện bảo vệ công tơ lắp đặt trong khu vực quản lý của bên mua",
+            "nan"
+        ],
+        "answer": "Bên bán điện có trách nhiệm bảo vệ công tơ lắp đặt ở ngoài khu vực quản lý của bên mua điện"
+    },
+    {
+        "question": "Những tổ chức nào được quyền kiểm định, hiệu chuẩn, thử nghiệm thiết bị đo đếm điện?",
+        "options": [
+            "Chỉ những tổ chức kiểm định, hiệu chuẩn, thử nghiệm đã đăng ký hoặc được chỉ định theo quy định của pháp luật về đo lường mới được phép kiểm định, hiệu chuẩn, thử nghiệm thiết bị đo đếm điện",
+            "Tất cả các tổ chức cá nhân đã được cấp giấy phép hoạt động Điện lực",
+            "Chỉ những tổ chức của cơ quan quản lý nhà nước về đo lường mới được phép kiểm định thiết bị đo đếm điện",
+            "nan"
+        ],
+        "answer": "Chỉ những tổ chức kiểm định, hiệu chuẩn, thử nghiệm đã đăng ký hoặc được chỉ định theo quy định của pháp luật về đo lường mới được phép kiểm định, hiệu chuẩn, thử nghiệm thiết bị đo đếm điện"
+    },
+    {
+        "question": "Bên nào có trách nhiệm tổ chức việc kiểm định, hiệu chuẩn, thử nghiệm thiết bị đo đếm điện theo đúng yêu cầu và thời hạn quy định của pháp luật về đo lường?",
+        "options": [
+            "Bên bán điện",
+            "Bên mua điện",
+            "Đơn vị điều độ hệ thống điện quốc gia",
+            "Đơn vị điều hành giao dịch thị trường điện lực"
+        ],
+        "answer": "Bên bán điện"
+    },
+    {
+        "question": "Khi kiểm định lại thiết bị đo đếm xác định hoạt động chính xác, bên nào phải trả chi phí cho việc kiểm định?",
+        "options": [
+            "Bên mua điện",
+            "Bên bán điện",
+            "Hai bên cùng nhau thanh toán theo thỏa thuận",
+            "nan"
+        ],
+        "answer": "Bên mua điện"
+    },
+    {
+        "question": "Khi kiểm định lại thiết bị đo đếm xác định hoạt động không chính xác, bên nào phải trả chi phí cho việc kiểm định?",
+        "options": [
+            "Bên bán điện",
+            "Bên mua điện",
+            "Hai bên cùng nhau thanh toán theo thỏa thuận",
+            "nan"
+        ],
+        "answer": "Bên bán điện"
+    },
+    {
+        "question": "Chu kỳ kiểm định định kỳ đối với công tơ xoay chiều 1 pha kiểu cảm ứng được quy định là",
+        "options": [
+            "60 tháng",
+            "36 tháng",
+            "48 tháng",
+            "72 tháng"
+        ],
+        "answer": "60 tháng"
+    },
+    {
+        "question": "Chu kỳ kiểm định định kỳ đối với công tơ 1 pha điện tử 3 giá được quy định là",
+        "options": [
+            "72 tháng",
+            "36 tháng",
+            "48 tháng",
+            "60 tháng"
+        ],
+        "answer": "72 tháng"
+    },
+    {
+        "question": "Chu kỳ kiểm định định kỳ đối với công tơ 3 pha điện tử 1 giá được quy định là",
+        "options": [
+            "36 tháng",
+            "48 tháng",
+            "60 tháng",
+            "72 tháng"
+        ],
+        "answer": "36 tháng"
+    },
+    {
+        "question": "Chu kỳ kiểm định định kỳ đối với công tơ 3 pha kiểu cơ khí được quy định là",
+        "options": [
+            "48 tháng",
+            "36 tháng",
+            "60 tháng",
+            "72 tháng"
+        ],
+        "answer": "48 tháng"
+    },
+    {
+        "question": "Chu kỳ kiểm định định kỳ đối với máy biến dòng điện hạ thế được quy định là",
+        "options": [
+            "60 tháng",
+            "36 tháng ",
+            "48 tháng",
+            "72 tháng"
+        ],
+        "answer": "60 tháng"
+    },
+    {
+        "question": "Chu kỳ kiểm định định kỳ đối với máy biến điện áp trung thế 22kV được quy định là",
+        "options": [
+            "60 tháng",
+            "36 tháng ",
+            "48 tháng",
+            "72 tháng"
+        ],
+        "answer": "60 tháng"
+    },
+    {
+        "question": "Chu kỳ (hằng năm) kiểm tra định kỳ xác xuất tối thiểu đối với công tơ 1 pha được quy định như thế nào?",
+        "options": [
+            " Không quá 5 % số lượng công tơ/1 năm",
+            " Không quá 10 % số lượng công tơ /1 năm",
+            " Không quá 20 % số lượng công tơ/1 năm",
+            "nan"
+        ],
+        "answer": " Không quá 5 % số lượng công tơ/1 năm"
+    },
+    {
+        "question": "Chu kỳ (hằng năm) kiểm tra định kỳ xác xuất tối thiểu đối với công tơ 3 pha trực tiếp được quy định như thế nào?",
+        "options": [
+            "Không quá 50 %  số lượng công tơ /1 năm",
+            " Không quá 20 % số lượng công tơ /1 năm",
+            " Không quá 30 % số lượng công tơ /1 năm",
+            "nan"
+        ],
+        "answer": "Không quá 50 %  số lượng công tơ /1 năm"
+    },
+    {
+        "question": "Chu kỳ (hằng năm) kiểm tra định kỳ xác xuất tối thiểu đối với công tơ 3 pha gián tiếp được quy định như thế nào?",
+        "options": [
+            "Không quá 100 %  số lượng công tơ /1 năm",
+            " Không quá 50 % số lượng công tơ /1 năm",
+            " Không quá 80 % số lượng công tơ /1 năm",
+            "nan"
+        ],
+        "answer": "Không quá 100 %  số lượng công tơ /1 năm"
+    },
+    {
+        "question": "Chu kỳ kiểm tra định kỳ đối với máy biến điện áp, máy biến dòng điện?",
+        "options": [
+            "Đồng bộ với công tơ đấu nối máy biến dòng điện, máy biến điện áp",
+            "6 tháng",
+            "12 tháng",
+            "24 tháng"
+        ],
+        "answer": "Đồng bộ với công tơ đấu nối máy biến dòng điện, máy biến điện áp"
+    },
+    {
+        "question": "Vận chuyển công tơ và thiết bị đo đếm điện năng yêu cầu?",
+        "options": [
+            "Việc vận chuyển thiết bị đo đếm phải có biện pháp tránh va đập, rung, xóc gây sai số và hư hỏng",
+            "Phải để trong hộp xốp",
+            "Phải có biện pháp xắp xếp theo quy định",
+            "Phải có bạt che phủ"
+        ],
+        "answer": "Việc vận chuyển thiết bị đo đếm phải có biện pháp tránh va đập, rung, xóc gây sai số và hư hỏng"
+    },
+    {
+        "question": "Người được giao nhiệm vụ treo, tháo thiết bị đo đếm điện năng trước khi thực hiện nhiệm vụ phải làm việc gì?",
+        "options": [
+            "Cả 3 đáp án",
+            "Kiểm tra sự toàn vẹn của hệ thống đo đếm điện năng, chì niêm, niêm phong",
+            "Kiểm tra tình trạng hoạt động của thiết bị đo đếm",
+            "Ghi chỉ số công tơ tại thời điểm treo hoặc tháo, hệ số nhân..."
+        ],
+        "answer": "Cả 3 đáp án"
+    },
+    {
+        "question": "Các mức mật khẩu của công tơ điện tử?",
+        "options": [
+            "Mức chỉ đọc, mức đồng bộ thời gian, mức cài đặt",
+            "Mức chỉ đọc,mức cài đặt",
+            "Mức chỉ đọc, mức đồng bộ thời gian",
+            "Mức đồng bộ thời gian, mức cài đặt"
+        ],
+        "answer": "Mức chỉ đọc, mức đồng bộ thời gian, mức cài đặt"
+    },
+    {
+        "question": "Hệ thống thu thập số liệu đo đếm sẽ lọc và thực hiện đồng bộ thời gian theo lịch đã định sẵn đối với các công tơ có sai lệch thời gian với chuẩn là bao nhiêu?",
+        "options": [
+            "≥ 3 phút",
+            "≥ 5 phút",
+            "≥ 10 phút",
+            "≥ 15 phút"
+        ],
+        "answer": "≥ 3 phút"
+    },
+    {
+        "question": "Các Đơn vị phải tiến hành xử lý hệ thống thu thập số liệu công tơ trong hời gian bao nhiêu lâu kể từ thời điểm gần nhất không thu thập  được số liệu đo đếm?",
+        "options": [
+            "≤ 48 giờ",
+            "≤ 24 giờ",
+            "≤ 36 giờ",
+            "≤ 12 giờ"
+        ],
+        "answer": "≤ 48 giờ"
+    },
+    {
+        "question": "Đơn vị nào là chủ trì thiết lập phương thức giao nhận nhận điện đối với các điểm đo đếm điện năng ranh giới giữa các Đơn vị Điện lực?",
+        "options": [
+            "Công ty Mua bán Điện",
+            "Tổng công ty Điện lực",
+            "Tổng công ty Truyền tải Điện",
+            "Tổng công ty phát Điện"
+        ],
+        "answer": "Công ty Mua bán Điện"
+    },
+    {
+        "question": "Theo Chỉ thị 20/CT-TTg, trong giai đoạn 2023 - 2025, cả nước phải phấn đấu tiết kiệm tối thiểu bao nhiêu % tổng điện năng tiêu thụ?",
+        "options": [
+            "2%",
+            "1%",
+            "3%",
+            "5%"
+        ],
+        "answer": "2%"
+    },
+    {
+        "question": "Theo Chỉ thị 20/CT-TTg, giảm tổn thất điện năng trên toàn Hệ thống điện dưới bao nhiêu % vào năm 2025?",
+        "options": [
+            "6%",
+            "4%",
+            "5%",
+            "7%"
+        ],
+        "answer": "6%"
+    },
+    {
+        "question": "Theo Chỉ thị 20/CT-TTg, giảm bớt công suất phụ tải đỉnh của hệ thống điện quốc gia thông qua chương trình DSM và DR, ít nhất bao nhiêu MW vào năm 2025?",
+        "options": [
+            "1.500 MW",
+            "1.000 MW",
+            "1.300 MW",
+            "2.000 MW"
+        ],
+        "answer": "1.500 MW"
+    },
+    {
+        "question": "Theo Chỉ thị 20/CT-TTg, phấn đấu đến năm 2030 có bao nhiêu % tòa nhà công sở và bao nhiêu % nhà dân sử dụng điện mặt trời tự sản, tự tiêu?",
+        "options": [
+            "50% tòa nhà công sở và 50% nhà dân",
+            "50% tòa nhà công sở và 30% nhà dân",
+            "30% tòa nhà công sở và 50% nhà dân",
+            "100% tòa nhà công sở và 50% nhà dân"
+        ],
+        "answer": "50% tòa nhà công sở và 50% nhà dân"
+    },
+    {
+        "question": "Theo Chỉ thị 20/CT-TTg, đến hết năm 2025, phấn đấu bao nhiêu % chiếu sáng đường phố sử dụng đèn LED?",
+        "options": [
+            "100%",
+            "70%",
+            "80%",
+            "90%"
+        ],
+        "answer": "100%"
+    },
+    {
+        "question": "Theo Chỉ thị 20/CT-TTg, tại cơ quan, công sở đảm bảo hằng năm tối thiểu tiết kiệm bao nhiêu % tổng điện năng tiêu thụ trong năm?",
+        "options": [
+            "5%",
+            "4%",
+            "6%",
+            "7%"
+        ],
+        "answer": "5%"
+    },
+    {
+        "question": "Theo Chỉ thị 20/CT-TTg, chiếu sáng công cộng và quảng cáo, trang trí ngoài trời đảm bảo tối thiểu tiết kiệm bao nhiêu % tổng điện năng tiêu thụ trong giai đoạn 2023-2025?",
+        "options": [
+            "30%",
+            "20%",
+            "40%",
+            "50%"
+        ],
+        "answer": "30%"
+    },
+    {
+        "question": "Theo Chỉ thị 20/CT-TTg, các nhà hàng, khách sạn, cơ sở DVTM, tổ hợp văn phòng và tòa nhà chung cư tắt hoặc giảm tối thiểu 50% công suất hay 50% sản lượng chiếu sáng quảng cáo trang trí ngoài trời vào cao điểm buổi tối?",
+        "options": [
+            "50% công suất",
+            "50% sản lượng",
+            "Không đáp án nào",
+            "Cả đáp án A và B"
+        ],
+        "answer": "50% công suất"
+    },
+    {
+        "question": "Theo Chỉ thị 20/CT-TTg, Các Khách hàng có điện năng tiêu thụ từ 01 triệu kWh/năm trở lên phải tiết kiệm ít nhất bao nhiêu % điện năng tiêu thụ trên một đơn vị sản phẩm mỗi năm?",
+        "options": [
+            "2%",
+            "1%",
+            "3%",
+            "5%"
+        ],
+        "answer": "2%"
+    },
+    {
+        "question": "Theo Quyết định số 13/2020/QĐ-TTg, hệ thống điện mặt trời mái nhà có công suất và đấu nối trực tiếp/gián tiếp vào lưới điện có cấp điện áp bao nhiêu?",
+        "options": [
+            "Không quá 01MW, cấp điện áp từ 35kV trở xuống",
+            "Từ 01MW trở lên, cấp điện áp từ 35kV trở xuống",
+            "Không quá 01MW, cấp điện áp từ 0,4kV",
+            "Từ 01MW trở lên, cấp điện áp từ 22kV trở xuống"
+        ],
+        "answer": "Không quá 01MW, cấp điện áp từ 35kV trở xuống"
+    },
+    {
+        "question": "Theo Văn bản số 1532/EVN-KD, những dự án ĐMTMN có ngày vận hàng thương mại giai đoạn từ 30/6/2019 trở về trước giá mua điện là bao nhiêu UScents/kWh?",
+        "options": [
+            "9,35 UScents/kWh",
+            "8,83 UScents/kWh",
+            "9,53 UScents/kWh",
+            "8,38 UScents/kWh"
+        ],
+        "answer": "9,35 UScents/kWh"
+    },
+    {
+        "question": "Theo Quyết định số 13/2020/QĐ-TTg, giá mua điện của hệ thống điện mặt trời mái nhà có ngày vận hàng thương mại trong giai đoạn từ 01/7/2019 đến 31/12/2019 là bao nhiêu UScents/kWh?",
+        "options": [
+            "8,38 UScents/kWh",
+            "8,83 UScents/kWh",
+            "9,35 UScents/kWh",
+            "7,69 UScents/kWh"
+        ],
+        "answer": "8,38 UScents/kWh"
+    },
+    {
+        "question": "Theo Thông tư số 18/2020/TT-BCT, bên Mua điện thanh toán cho bên Bán điện theo \"Hình thức thanh toán\" nào?",
+        "options": [
+            "Chuyển khoản (Bên Bán chịu phí chuyển khoản)",
+            "Chuyển khoản (Bên Mua chịu phí chuyển khoản)",
+            "Tiền mặt",
+            "Chuyển khoản + Tiền mặt"
+        ],
+        "answer": "Chuyển khoản (Bên Bán chịu phí chuyển khoản)"
+    },
+    {
+        "question": "Theo Quyết định số 13/2020/QĐ-TTg, tổ chức, cá nhân đầu tư lắp đặt hệ thống điện mặt trời mái nhà phải đảm bảo các yêu cầu nào?",
+        "options": [
+            "Cả 3 đáp áp ",
+            "An toàn điện",
+            "An toàn công trình xây dựng",
+            "Môi trường, phòng chống cháy nổ theo quy định hiện hành"
+        ],
+        "answer": "Cả 3 đáp áp "
+    },
+    {
+        "question": "Đối với khách hàng mua điện có sản lượng trung bình từ 100.000kWh/tháng trở lên, lịch ghi chỉ số được sắp xếp như thế nào?",
+        "options": [
+            "Ghi chỉ số 03 lần trong 1 tháng",
+            "Ghi chỉ số 01 lần trong 1 tháng",
+            "Ghi chỉ số 02 lần trong 1 tháng",
+            "nan"
+        ],
+        "answer": "Ghi chỉ số 03 lần trong 1 tháng"
+    },
+    {
+        "question": "Đối với khách hàng mua điện có sản lượng trung bình từ 50.000 kWh đến dưới 100.000kWh/tháng, lịch ghi chỉ số được sắp xếp như thế nào?",
+        "options": [
+            "Ghi chỉ số 02 lần trong 1 tháng",
+            "Ghi chỉ số 01 lần trong 1 tháng",
+            "Ghi chỉ số 03 lần trong 1 tháng",
+            "nan"
+        ],
+        "answer": "Ghi chỉ số 02 lần trong 1 tháng"
+    },
+    {
+        "question": "Đối với khách hàng mua điện có sản lượng trung bình  hàng quý ít hơn 15kWh/tháng, đơn vị Điện lực có thể thỏa thuận lịch ghi chỉ số như thế nào?",
+        "options": [
+            "Không quá 3 tháng một lần ",
+            "Không quá 4 tháng một lần",
+            "Không quá 2 tháng một lần",
+            "nan"
+        ],
+        "answer": "Không quá 3 tháng một lần "
+    },
+    {
+        "question": "Đối với trường hợp công tơ để trong phạm vi quản lý của khách hàng, nếu sau 02 lần đến ghi chỉ số  mà không ghi được, người ghi chỉ số được phép tạm tính điện năng tiêu thụ của khách hàng, nhưng không được tạm tính quá bao nhiêu chu kỳ ghi chỉ số liên tiếp?",
+        "options": [
+            "Không quá 2 chu kỳ ghi chỉ số liên tiếp",
+            "Không quá 3 chu kỳ ghi chỉ số liên tiếp",
+            "Chỉ được phép tạm tính 01 tháng",
+            "nan"
+        ],
+        "answer": "Không quá 2 chu kỳ ghi chỉ số liên tiếp"
+    },
+    {
+        "question": "Khi thực hiện ghi chỉ số trực tiếp, thiết bị ghi chỉ số được cài đặt mức cảnh báo sản lượng bất thường nào là đúng quy định?",
+        "options": [
+            "Sản lượng bất thường có mức tăng/giảm ≥ 30% so với kỳ trước liền kề",
+            "Sản lượng bất thường có mức tăng/giảm ≥ 50% so với kỳ trước liền kề",
+            "Sản lượng bất thường có mức tăng/giảm ≥ 100% so với kỳ trước liền kề",
+            "nan"
+        ],
+        "answer": "Sản lượng bất thường có mức tăng/giảm ≥ 30% so với kỳ trước liền kề"
+    },
+    {
+        "question": "Đơn vị điện lực có trách nhiệm phúc tra việc ghi chỉ số đối với các khu vực thuê dịch vụ bán lẻ điện năng với thời hạn?",
+        "options": [
+            "Không quá 6 tháng/lần",
+            "Không quá 8 tháng/lần",
+            "Không quá 12 tháng/lần",
+            "nan"
+        ],
+        "answer": "Không quá 6 tháng/lần"
+    },
+    {
+        "question": "Sau khi kết thúc ghi chỉ số, chỉ số công tơ và điện tiêu thụ được đồng bộ lên App, Website của TT.Chăm sóc khách hàng trong thời gian?",
+        "options": [
+            "Trong thời gian ≤ 24h",
+            "Trong thời gian ≤ 48h",
+            "Trong thời gian < 72h",
+            "Trong thời gian ≤ 72h"
+        ],
+        "answer": "Trong thời gian ≤ 24h"
+    },
+    {
+        "question": "Dữ liệu ghi chỉ số dùng để phát hành hóa đơn tiền tiện phải được lưu trữ điện tử trong thời gian?",
+        "options": [
+            "05 năm",
+            "03 năm",
+            "01 năm",
+            "10 năm"
+        ],
+        "answer": "05 năm"
+    },
+    {
+        "question": "Theo quy định của EVN, thời gian cung cấp cho khách hàng dịch vụ cấp điện mới hạ áp đối với trường hợp không phải lắp dựng thêm cột/cáp ngầm/lắp đặt máy biến dòng điện (kể từ khi khách hàng cung cấp đầy đủ thông tin liên quan theo quy định)?",
+        "options": [
+            " Không quá 05 ngày làm việc",
+            "Không quá 03 ngày làm việc",
+            "Không quá 07 ngày làm việc",
+            "Không quá 10 ngày làm việc "
+        ],
+        "answer": " Không quá 05 ngày làm việc"
+    },
+    {
+        "question": "Theo quy định của EVN, thời gian cung cấp cho khách hàng dịch vụ thay đổi chủ thể hợp đồng mua bán điện (kể từ khi khách hàng cung cấp đầy đủ thông tin liên quan theo quy định)?",
+        "options": [
+            "Không quá 03 ngày làm việc ",
+            "Không quá 01 ngày làm việc ",
+            "Không quá 05 ngày làm việc ",
+            "Không quá 07 ngày làm việc"
+        ],
+        "answer": "Không quá 03 ngày làm việc "
+    },
+    {
+        "question": "Theo quy định của EVN, thời gian cung cấp cho khách hàng dịch vụ thay đổi thông tin (kể từ khi khách hàng cung cấp đầy đủ thông tin)?",
+        "options": [
+            "Không quá 03 ngày làm việc ",
+            "Không quá 01 ngày làm việc ",
+            "Không quá 05 ngày làm việc ",
+            "Không quá 07 ngày làm việc"
+        ],
+        "answer": "Không quá 03 ngày làm việc "
+    },
+    {
+        "question": "Theo quy định của EVN, thời gian cung cấp cho khách hàng dịch vụ thay đổi mục đích sử dụng điện (kể từ khi khách hàng cung cấp đầy đủ thông tin liên quan theo quy định)?",
+        "options": [
+            "Không quá 03 ngày làm việc ",
+            "Không quá 01 ngày làm việc ",
+            "Không quá 05 ngày làm việc ",
+            "Không quá 07 ngày làm việc"
+        ],
+        "answer": "Không quá 03 ngày làm việc "
+    },
+    {
+        "question": "Theo quy định của EVN, thời gian cung cấp cho khách hàng dịch vụ thay đổi định mức sử dụng điện (kể từ khi khách hàng cung cấp đầy đủ thông tin liên quan theo quy định)?",
+        "options": [
+            "Không quá 03 ngày làm việc ",
+            "Không quá 01 ngày làm việc ",
+            "Không quá 05 ngày làm việc ",
+            "Không quá 07 ngày làm việc"
+        ],
+        "answer": "Không quá 03 ngày làm việc "
+    },
+    {
+        "question": "Theo quy định của EVN, thời gian cung cấp cho khách hàng dịch vụ gia hạn hợp đồng mua bán điện (kể từ khi khách hàng cung cấp đầy đủ thông tin liên quan theo quy định)?",
+        "options": [
+            "Không quá 03 ngày làm việc ",
+            "Không quá 01 ngày làm việc ",
+            "Không quá 05 ngày làm việc ",
+            "Không quá 07 ngày làm việc"
+        ],
+        "answer": "Không quá 03 ngày làm việc "
+    },
+    {
+        "question": "Theo quy định của EVN, thời gian cung cấp dịch vụ Chấm dứt hợp đồng mua bán điện với khách hàng (kể từ khi khách hàng cung cấp đầy đủ thông tin liên quan theo quy định)?",
+        "options": [
+            "Không quá 03 ngày làm việc ",
+            "Không quá 01 ngày làm việc ",
+            "Không quá 05 ngày làm việc ",
+            "Không quá 07 ngày làm việc"
+        ],
+        "answer": "Không quá 03 ngày làm việc "
+    },
+    {
+        "question": "Theo quy định của EVN, thời gian cung cấp cho khách hàng dịch vụ thay đổi vị trí đo đếm (kể từ khi khách hàng cung cấp đầy đủ thông tin liên quan theo quy định)?",
+        "options": [
+            "Không quá 05 ngày làm việc ",
+            "Không quá 03 ngày làm việc ",
+            "Không quá 01 ngày làm việc ",
+            "Không quá 07 ngày làm việc"
+        ],
+        "answer": "Không quá 05 ngày làm việc "
+    },
+    {
+        "question": "Theo quy định của EVN, thời gian cung cấp dịch vụ thay đổi công suất sử dụng cho khách hàng (kể từ khi khách hàng cung cấp đầy đủ thông tin liên quan theo quy định)?",
+        "options": [
+            "Không quá 05 ngày làm việc ",
+            "Không quá 03 ngày làm việc ",
+            "Không quá 01 ngày làm việc ",
+            "Không quá 07 ngày làm việc"
+        ],
+        "answer": "Không quá 05 ngày làm việc "
+    },
+    {
+        "question": "Theo quy định của EVN, thời gian cung cấp dịch vụ cấp điện trở lại theo khách hàng yêu cầu (kể từ khi khách hàng cung cấp đầy đủ thông tin liên quan theo quy định)?",
+        "options": [
+            "Không quá 05 ngày làm việc ",
+            "Không quá 03 ngày làm việc ",
+            "Không quá 01 ngày làm việc ",
+            "Không quá 07 ngày làm việc"
+        ],
+        "answer": "Không quá 05 ngày làm việc "
+    },
+    {
+        "question": "Theo quy định của EVN, thời gian cung cấp dịch vụ kiểm tra thiết bị đo đếm cho khách hàng (kể từ khi khách hàng cung cấp đầy đủ thông tin liên quan theo quy định)?",
+        "options": [
+            "Không quá 03 ngày làm việc ",
+            "Không quá 01 ngày làm việc ",
+            "Không quá 05 ngày làm việc ",
+            "Không quá 07 ngày làm việc"
+        ],
+        "answer": "Không quá 03 ngày làm việc "
+    },
+    {
+        "question": "Theo quy định của EVN, thời gian cung cấp cho khách hàng dịch vụ cấp điện mới hạ áp ngoài sinh hoạt công suất < 40kW đối với trường hợp không phải lắp dựng thêm cột/cáp ngầm/lắp đặt máy biến dòng điện (kể từ khi khách hàng cung cấp đầy đủ thông tin liên quan theo quy định)?",
+        "options": [
+            "Không quá 05 ngày làm việc",
+            "Không quá 03 ngày làm việc",
+            "Không quá 07 ngày làm việc",
+            "Không quá 10 ngày làm việc "
+        ],
+        "answer": "Không quá 05 ngày làm việc"
+    },
+    {
+        "question": "Theo quy định của EVN, thời gian cung cấp cho khách hàng dịch vụ cấp điện mới hạ áp ngoài sinh hoạt công suất >= 40kW đối với trường hợp không phải lắp dựng thêm cột/cáp ngầm/lắp đặt máy biến dòng điện (kể từ khi khách hàng cung cấp đầy đủ thông tin liên quan theo quy định)?",
+        "options": [
+            "Không quá 05 ngày làm việc",
+            "Không quá 03 ngày làm việc",
+            "Không quá 07 ngày làm việc",
+            "Không quá 10 ngày làm việc "
+        ],
+        "answer": "Không quá 05 ngày làm việc"
+    },
+    {
+        "question": "Theo quy định của EVN, thời gian cung cấp cho khách hàng dịch vụ cấp điện mới hạ áp, cấp điện sinh hoạt tách công tơ dùng chung đối với trường hợp không phải lắp dựng thêm cột/cáp ngầm/lắp đặt máy biến dòng điện (kể từ khi khách hàng cung cấp đầy đủ thông tin liên quan theo quy định)?",
+        "options": [
+            "Không quá 05 ngày làm việc",
+            "Không quá 03 ngày làm việc",
+            "Không quá 07 ngày làm việc",
+            "Không quá 10 ngày làm việc "
+        ],
+        "answer": "Không quá 05 ngày làm việc"
+    },
+    {
+        "question": "Theo quy định của EVN, thời gian cung cấp cho khách hàng dịch vụ cấp điện mới hạ áp, cấp điện sinh hoạt dùng chung công tơ đối với trường hợp không phải lắp dựng thêm cột/cáp ngầm/lắp đặt máy biến dòng điện (kể từ khi khách hàng cung cấp đầy đủ thông tin liên quan theo quy định)?",
+        "options": [
+            "Không quá 05 ngày làm việc",
+            "Không quá 03 ngày làm việc",
+            "Không quá 07 ngày làm việc",
+            "Không quá 10 ngày làm việc "
+        ],
+        "answer": "Không quá 05 ngày làm việc"
+    },
+    {
+        "question": "Theo quy định của EVN, thời gian cung cấp cho khách hàng dịch vụ cấp điện mới hạ áp đối với trường hợp phải lắp dựng thêm cột/cáp ngầm/lắp đặt máy biến dòng điện (kể từ khi khách hàng cung cấp đầy đủ thông tin liên quan theo quy định)?",
+        "options": [
+            "Không quá 07 ngày làm việc",
+            "Không quá 05 ngày làm việc",
+            "Không quá 03 ngày làm việc",
+            "Không quá 10 ngày làm việc "
+        ],
+        "answer": "Không quá 07 ngày làm việc"
+    },
+    {
+        "question": "Theo quy định của EVN, thời gian cung cấp cho khách hàng dịch vụ cấp điện mới hạ áp ngoài sinh hoạt công suất < 40kW đối với trường hợp phải lắp dựng thêm cột/cáp ngầm/lắp đặt máy biến dòng điện (kể từ khi khách hàng cung cấp đầy đủ thông tin liên quan theo quy định)?",
+        "options": [
+            "Không quá 07 ngày làm việc",
+            "Không quá 05 ngày làm việc",
+            "Không quá 03 ngày làm việc",
+            "Không quá 10 ngày làm việc "
+        ],
+        "answer": "Không quá 07 ngày làm việc"
+    },
+    {
+        "question": "Theo quy định của EVN, thời gian cung cấp cho khách hàng dịch vụ cấp điện mới hạ áp ngoài sinh hoạt công suất >= 40kW đối với trường hợp phải lắp dựng thêm cột/cáp ngầm/lắp đặt máy biến dòng điện (kể từ khi khách hàng cung cấp đầy đủ thông tin liên quan theo quy định)?",
+        "options": [
+            "Không quá 07 ngày làm việc",
+            "Không quá 05 ngày làm việc",
+            "Không quá 03 ngày làm việc",
+            "Không quá 10 ngày làm việc "
+        ],
+        "answer": "Không quá 07 ngày làm việc"
+    },
+    {
+        "question": "Hiện nay, Tập đoàn Điện lực Việt Nam đang cung cấp tổng cộng bao nhiêu loại hình dịch vụ điện cho khách hàng?  ",
+        "options": [
+            "25 Dịch vụ",
+            "19 Dịch vụ",
+            "10 Dịch vụ",
+            "09 Dịch vụ"
+        ],
+        "answer": "25 Dịch vụ"
+    },
+    {
+        "question": "EVN quy định những trường hợp nào sau đây là dịch vụ miễn phí trong quá trình thực hiện hợp đồng mua bán điện?",
+        "options": [
+            "Cả 3 đáp án",
+            "Thay đổi thông tin, thay đổi chủ thế hợp đồng mua bán điện",
+            "Thay đổi mục đích, thay đổi định mức sử dụng điện ",
+            "Gia hạn, chấm dứt hợp đồng mua bán điện"
+        ],
+        "answer": "Cả 3 đáp án"
+    },
+    {
+        "question": "EVN quy định những trường hợp nào sau đây là dịch vụ có chi phí trong quá trình thực hiện hợp đồng mua bán điện?",
+        "options": [
+            "Cả 3 đáp án",
+            "Thay đổi công suất sử dụng, thay đổi vị trí đo đếm",
+            "Cấp điện trở lại theo khách hàng yêu cầu",
+            "Kiểm tra/kiểm định thiết bị đo đếm"
+        ],
+        "answer": "Cả 3 đáp án"
+    },
+    {
+        "question": "Theo quy định của EVN, khi khách hàng đăng ký mua điện hạ áp có cần đăng ký biểu đồ phụ tải không?",
+        "options": [
+            "Có, nếu mục đích sử dụng điện ngoài sinh hoạt và công suất đăng ký >= 40kW",
+            "Không, khách hàng mua điện hạ áp không cần đăng ký biểu đồ phụ tải",
+            "Có, tất cả các khách hàng có công suất đăng ký >= 40kW",
+            "Không, nếu có 2 hộ dùng chung và công suất mỗi hộ < 20kW"
+        ],
+        "answer": "Có, nếu mục đích sử dụng điện ngoài sinh hoạt và công suất đăng ký >= 40kW"
+    },
+    {
+        "question": "Theo quy trình kinh doanh của EVN, thời gian từ khi khách hàng gọi đến khi điện thoại viên Trung tâm Chăm sóc khách hàng nhấc máy tiếp nhận cuộc gọi trừ các trường hợp sự cố mất điện ảnh hưởng từ 5.000 khách hàng trở lên?",
+        "options": [
+            "03 hồi chuông điện thoại",
+            "02 hồi chuông điện thoại",
+            "01 hồi chuông điện thoại",
+            "04 hồi chuông điện thoại"
+        ],
+        "answer": "03 hồi chuông điện thoại"
+    },
+    {
+        "question": "Theo quy trình kinh doanh của EVN, trong thời gian bao lâu, Giám đốc Đơn vị Điện lực phải tổ chức xác minh và trả lời bằng văn bản đối với các phản ánh qua các phương tiện truyền thông (báo, đài truyền thanh, truyền hình,…) liên quan đến quá trình cung cấp dịch vụ điện thuộc phạm vi quản lý, đồng thời gửi báo cáo cấp trên (nếu có yêu cầu)?",
+        "options": [
+            "24 giờ",
+            "12 giờ",
+            "36 giờ",
+            "48 giờ"
+        ],
+        "answer": "24 giờ"
+    },
+    {
+        "question": "Theo quy trình kinh doanh của EVN, đối với các trường hợp khẩn cấp hay có thay đổi đột xuất hoặc sai hẹn thời gian ngừng, cấp điện trở lại với khách hàng thì phải cập nhật ngay vào phần mềm OMS trong thời gian bao lâu?",
+        "options": [
+            "Chậm nhất không quá 15 phút",
+            "Chậm nhất không quá 10 phút",
+            "Chậm nhất không quá 05 phút",
+            "Cập nhật ngay"
+        ],
+        "answer": "Chậm nhất không quá 15 phút"
+    },
+    {
+        "question": "Theo quy trình kinh doanh của EVN, trường hợp có thay đổi hủy bỏ hoặc bổ sung  lịch ngừng, giảm cung cấp điện có kế hoạch trên OMS phải cập nhật điều chỉnh trên OMS trong thời gian bao lâu?",
+        "options": [
+            "Trước 24 giờ",
+            "Trước 12 giờ",
+            "Trước 05 giờ",
+            "Cập nhật ngay"
+        ],
+        "answer": "Trước 24 giờ"
+    },
+    {
+        "question": "Theo quy trình kinh doanh của EVN, khi để quá hạn yêu cầu qua CRM mà chưa giải quyết thì trong thời gian bao lâu đơn vị Điện lực phải thực hiện cập nhật vào CRM tình trạng, giải quyết, nguyên nhân chưa hoàn thành và dự kiến thời gian hoàn tất yêu cầu?",
+        "options": [
+            "Trong vòng 15 phút",
+            "Trong vòng 10 phút",
+            "Trong vòng 05 phút",
+            "Cập nhật ngay"
+        ],
+        "answer": "Trong vòng 15 phút"
+    },
+    {
+        "question": "Theo quy trình kinh doanh của EVN, các Công ty Điện lực/Điện lực có trách nhiệm thông báo cho Trung tâm Chăm sóc khách hàng kế hoạch triển khai các công việc có ảnh hưởng trên diện rộng nào sau đây?",
+        "options": [
+            "Tất cả các phương án",
+            "Lắp đặt công tơ điện tử thay công tơ cơ khí",
+            "Sắp xếp khách hàng trạm có ảnh hưởng đến lịch ghi chỉ số",
+            "Thay công tơ định kỳ"
+        ],
+        "answer": "Tất cả các phương án"
+    },
+    {
+        "question": "Quy trình kinh doanh của EVN quy định thiết lập các kênh tiếp nhận các phản hồi để lắng nghe và thấu hiểu khách hàng về dịch vụ điện, tối thiểu qua những kênh nào sau đây?",
+        "options": [
+            "Tất cả các phương án",
+            "Khảo sát đánh giá tự động sau khi kết thúc giao dịch, có tặng điểm chăm sóc khách hàng",
+            "Nhắn tin, gọi điện thoại Chăm sóc khách hàng và nhận phản hồi của khách hàng",
+            "Lắng nghe phản hồi của khách hàng qua mạng xã hội"
+        ],
+        "answer": "Tất cả các phương án"
+    },
+    {
+        "question": "Theo quy trình kinh doanh của EVN, khi nhận được khiếu nại của khách hàng về chỉ số công tơ, Đơn vị Điện lực phải tổ chức kiểm tra, giải quyết kịp thời theo đúng quy định trong thời gian bao lâu (trừ ngày lễ, Tết)? ",
+        "options": [
+            "Trong vòng 24 giờ",
+            "Trong vòng 12 giờ",
+            "Trong vòng 36 giờ",
+            "Giải quyết ngay"
+        ],
+        "answer": "Trong vòng 24 giờ"
+    },
+    {
+        "question": "Theo quy trình kinh doanh của EVN, trường hợp cấp điện mới hạ áp nhưng chưa có lưới điện phân phối hoặc lưới điện phân phối bị quá tải có xác nhận của cơ quan điều tiết điện lực hoặc cơ quan được ủy quyền; trong thời gian bao lâu kể từ khi nhận được đề nghị mua điện của khách hàng, đơn vị điện lực phải trả lời khách hàng, trong đó nêu rõ thời hạn dự kiến cấp điện được?",
+        "options": [
+            " ≤ 05 ngày làm việc",
+            " ≤ 07 ngày làm việc",
+            " ≤ 03 ngày làm việc",
+            "Trong vòng 24 giờ"
+        ],
+        "answer": " ≤ 05 ngày làm việc"
+    },
+    {
+        "question": "Theo quy trình kinh doanh của EVN quy định khi có lịch ngừng, giảm cung cấp điện có kế hoạch thì tối thiểu trong thời gian bao lâu các đơn vị phải nhập trên OMS?",
+        "options": [
+            "Trước 05 ngày",
+            "Trước 03 ngày",
+            "Trước 01 ngày",
+            "Cập nhật ngay"
+        ],
+        "answer": "Trước 05 ngày"
+    },
+    {
+        "question": "Theo quy trình kinh doanh của EVN quy định đơn vị Điện lực thực hiện phân nhóm khách hàng theo nhóm các tiêu chí kinh doanh là những tiêu chí nào?",
+        "options": [
+            "Cả 3 đáp án",
+            "Loại hợp đồng: Sinh hoạt và Ngoài sinh hoạt",
+            "Sản lượng tiêu thụ; Giá bán điện",
+            "Thực hiện thanh toán đúng hạn; Tham gia các hoạt động của đơn vị điện lực"
+        ],
+        "answer": "Cả 3 đáp án"
+    },
+    {
+        "question": "Theo quy trình kinh doanh của EVN quy định thực hiện Chăm sóc khách hàng qua các kênh dịch vụ điện tử như thế nào?",
+        "options": [
+            "Cả 3 đáp án",
+            "Đối với kênh tiếp nhận Email, đặt chế độ tự động trả lời trong đó có nội dung cam kết liên hệ giải quyết ≤ 24h",
+            "Cung cấp đầy đủ thông tin (lịch tạm ngừng cung cấp điện, các thay đổi liên quan đến việc sử dụng điện...) trên ứng dụng chăm sóc khách hàng, website chăm sóc khách hàng, email và tin nhắn",
+            "Tự động đánh giá chất lượng giải quyết yêu cầu qua các kênh ứng dụng chăm sóc khách hàng, website chăm sóc khách hàng, email của khách hàng sau khi kết thúc giao dịch với khách hàng."
+        ],
+        "answer": "Cả 3 đáp án"
+    },
+    {
+        "question": "EVNNPC quy định nội dung đánh giá khảo sát chất lượng dịch vụ phải bao gồm ít nhất các tiêu chí nào sau đây?",
+        "options": [
+            "Cả 3 đáp án",
+            "Trình tự thực hiện, quy trình thủ tục",
+            "Thái độ phục vụ khách hàng và kỹ năng nghiệp vụ của nhân viên thực hiện",
+            "Thời gian giải quyết"
+        ],
+        "answer": "Cả 3 đáp án"
+    },
+    {
+        "question": "Theo quy định của EVNNPC đối với phản ánh các hành vi nhũng nhiễu, tiêu cực của CBCNV trong hoạt động kinh doanh bán điện; Vi phạm sử dụng điện; Vi phạm quy định về các dịch vụ điện… hoặc những thông tin cần kiểm tra, xác minh và giải quyết trực tiếp thì chậm nhất trong thời gian bao lâu?",
+        "options": [
+            "Không quá 10 ngày làm việc",
+            "Không quá 20 ngày làm việc",
+            "Không quá 30 ngày làm việc",
+            "Không quá 45 ngày làm việc"
+        ],
+        "answer": "Không quá 10 ngày làm việc"
+    },
+    {
+        "question": "Theo quy định kiểm tra giám sát mua bán điện của EVNNPC, cách thức kiểm tra từ xa được áp dụng thực hiện khi thỏa mãn điều kiện nào?",
+        "options": [
+            "Cả 3 đáp án",
+            "Kiểm tra các nghiệp vụ chuyên môn tại các đơn vị nội bộ của EVNNPC/Công ty Điện lực.",
+            "Khi điều kiện thực tế không cho phép hoặc không phù hợp để kiểm tra trực tiếp.",
+            "Theo chủ trương, chỉ đạo của EVN/EVNNPC và phải được sự đồng ý của lãnh đạo EVNNPC/Công ty Điện lực."
+        ],
+        "answer": "Cả 3 đáp án"
+    },
+    {
+        "question": "Theo quy định kiểm tra giám sát mua bán điện của EVNNPC, hoạt động kiểm tra mua bán điện phải đảm bảo nguyên tắc nào sau đây? ",
+        "options": [
+            "Cả 3 đáp án",
+            "Khách quan, trung thực, tuân thủ pháp luật.",
+            "Đúng nội dung, đối tượng, niên hạn và thời hạn ghi trong thông báo kiểm tra.",
+            "Không làm cản trở hoạt động bình thường của tổ chức, cá nhân được kiểm tra."
+        ],
+        "answer": "Cả 3 đáp án"
+    },
+    {
+        "question": "Theo quy định kiểm tra giám sát mua bán điện của EVNNPC, khi kiểm tra mua bán điện theo kế hoạch, nội dung chính trong Thông báo kiểm tra cần phải có:",
+        "options": [
+            "Tất cả các đáp án",
+            "Căn cứ pháp lý để kiểm tra",
+            "Thành phần đoàn kiểm tra",
+            "Thời gian kiểm tra"
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Theo quy định kiểm tra giám sát mua bán điện của EVNNPC, đối với kiểm tra chuyên môn nghiệp vụ tại các đơn vi, đâu không phải là yêu cầu đối với biên bản kiểm tra, phải: ",
+        "options": [
+            "Tất cả các đáp án",
+            "Mô tả đầy đủ, trung thực hiện trạng",
+            "Các kết luận và đề xuất kiến nghị của các bên",
+            "Kết quả kiểm tra theo các nội dung đã nêu trong đề cương kiểm tra"
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Theo quy định kiểm tra giám sát mua bán điện của EVNNPC, sau mỗi cuộc kiểm tra chuyên môn, nghiệp vụ tại các đơn vị, sau tối đa bao nhiêu ngày làm việc, Đoàn kiểm tra có trách nhiệm tổng hợp, dự thảo văn bản chỉ đạo sau kiểm tra, trình lãnh đạo phê duyệt, ban hành?",
+        "options": [
+            "7 ngày",
+            "10 ngày",
+            "5 ngày",
+            "14 ngày"
+        ],
+        "answer": "7 ngày"
+    },
+    {
+        "question": "Theo quy định kiểm tra giám sát mua bán điện của EVNNPC, một trong những yêu cầu đối với CBCNV được Đơn vị điện lực phân công giải quyết kết quả kiểm tra sử dụng điện với khách hàng:",
+        "options": [
+            "Cả 3 đáp án",
+            "Có kiến thức trong lĩnh vực mua bán điện và kỹ năng giao tiếp với khách hàng",
+            "Biết sử dụng thành thạo các chương trình, ứng dụng chuyên dùng để tính toán truy thu/thoái hoàn và bồi thường tiền điện",
+            "Có thái độ làm việc nghiêm túc, lịch sự, nhã nhặn, đúng mực, tránh áp đặt hoặc suy diễn không có căn cứ."
+        ],
+        "answer": "Cả 3 đáp án"
+    },
+    {
+        "question": "Theo quy định kiểm tra giám sát mua bán điện của EVNNPC, một trong các quy định về việc phát hành, đánh số các Biên bản kiểm tra, Biên bản kiểm tra sử dụng điện: ",
+        "options": [
+            "Đơn vị phát hành: Cấp Công ty Điện lực trở lên, đóng dấu treo và dấu giáp lai các biên bản là dấu của đơn vị phát hành",
+            "Các biên bản kiểm tra sử dụng điện phải tiêu hủy sau thời gian 03 năm",
+            "Đóng dấu treo và dấu giáp lai các biên bản là dấu của Tổng công ty điện lực miền Bắc",
+            "Không cần phải đóng dấu các biên bản"
+        ],
+        "answer": "Đơn vị phát hành: Cấp Công ty Điện lực trở lên, đóng dấu treo và dấu giáp lai các biên bản là dấu của đơn vị phát hành"
+    },
+    {
+        "question": "Theo quy định kiểm tra giám sát mua bán điện của EVNNPC, tần suất các Điện lực lập, xác nhận báo cáo quyết toán nội bộ các Biên bản kiểm tra sử dụng điện:",
+        "options": [
+            "Hàng Tháng",
+            "Hàng Tuần",
+            "Hàng Quý",
+            "Hàng Năm"
+        ],
+        "answer": "Hàng Tháng"
+    },
+    {
+        "question": "Theo quy định kiểm tra giám sát mua bán điện của EVNNPC, tần suất các Điện lực lập bảng tổng hợp và xác nhận quyết toán các các Biên bản kiểm tra sử dụng điện với Công ty Điện lực (phòng kiểm tra giám sát mua bán điện):",
+        "options": [
+            "Hàng Quý",
+            "Hàng Tuần",
+            "Hàng Tháng",
+            "Hàng Năm"
+        ],
+        "answer": "Hàng Quý"
+    },
+    {
+        "question": "Theo quy định kiểm tra giám sát mua bán điện của EVNNPC, việc giao, nhận hồ sơ KTSDĐ phải thực hiện:",
+        "options": [
+            "Cả 3 đáp án",
+            "Vào sổ sách theo dõi, ghi đầy đủ rõ ràng các tài liệu có trong mỗi bộ hồ sơ",
+            "Ghi rõ ngày, tháng, năm, nơi giao, nơi nhận và có ký giao nhận trong sổ đầy đủ",
+            "Sổ giao nhận phải đánh số trang và đóng dấu giáp lai."
+        ],
+        "answer": "Cả 3 đáp án"
+    },
+    {
+        "question": "Theo quy định kiểm tra giám sát mua bán điện của EVNNPC, chậm nhất thời điểm nào của năm kế tiếp (năm N+1), các Công ty Điện lực phải báo cáo về công tác công tác tập huấn, sát hạch và cấp thẻ Kiểm tra viên điện lực; công tác kiểm tra sử dụng điện, bảo vệ an toàn công trình điện lực và lưới điện của năm N gửi Tổng công ty?",
+        "options": [
+            "Ngày 20 tháng 01",
+            "Ngày 31 tháng 01",
+            "Ngày 25 tháng 01",
+            "Ngày 05 tháng 02"
+        ],
+        "answer": "Ngày 20 tháng 01"
+    },
+    {
+        "question": "Khi ngừng, giảm mức cung cấp điện đơn vị điện lực có thể thông báo cho khách hàng bằng một trong những hình thức nào sau đây?",
+        "options": [
+            "Cả 3 đáp án",
+            "Các phương tiện thông tin đại chúng",
+            "Các hình thức liên lạc khác do hai bên thỏa thuận và ghi trong hợp đồng mua bán điện",
+            "Văn bản, thư điện tử, email, điện báo, điện thoại, fax, tin nhắn (SMS)"
+        ],
+        "answer": "Cả 3 đáp án"
+    },
+    {
+        "question": "Trường hợp cấp điện cho khách hàng qua công trình điện của chủ sở hữu tài sản khác, đơn vị điện lực phải làm gì?",
+        "options": [
+            "Thỏa thuận để có sự đồng ý của chủ sở hữu công trình điện",
+            "Không thỏa thuận với chủ sở hữu công trình điện. Đề nghị khách hàng cung cấp thỏa thuận giữa khách hàng và chủ sở hữu công trình điện trong hồ sơ đề nghị cấp điện",
+            "Từ chối việc cấp điện",
+            "nan"
+        ],
+        "answer": "Thỏa thuận để có sự đồng ý của chủ sở hữu công trình điện"
+    },
+    {
+        "question": "Khách hàng mua điện ngoài mục đích sinh hoạt tại nhiều địa điểm trong cùng khu vực đơn vị điện lực quản lý, đơn vị điện lực thực hiện ký hợp đồng mua bán điện như thế nào?",
+        "options": [
+            "Có thể ký 01 hợp đồng mua bán điện cho các địa điểm hoặc mỗi/nhiều địa điểm ký 01 hợp đồng mua bán điện",
+            "Chỉ được ký 01 hợp đồng mua bán điện cho tất cả địa điểm",
+            "Phải ký mỗi địa điểm tương ứng 01 hợp đồng mua bán điện",
+            "nan"
+        ],
+        "answer": "Có thể ký 01 hợp đồng mua bán điện cho các địa điểm hoặc mỗi/nhiều địa điểm ký 01 hợp đồng mua bán điện"
+    },
+    {
+        "question": "Hình thức bảo đảm thực hiện hợp đồng mua bán điện theo quy trình kinh doanh hiện hành là gì?",
+        "options": [
+            "Bảo lãnh ngân hàng và đặt cọc bằng tiền",
+            "Chuyển khoản ",
+            "Trích nợ tự động",
+            "Thanh toán qua tổ chức trung gian"
+        ],
+        "answer": "Bảo lãnh ngân hàng và đặt cọc bằng tiền"
+    },
+    {
+        "question": "Thời hạn của hợp đồng mua bán điện ngoài mục đích sinh hoạt được quy định như thế nào?",
+        "options": [
+            "Do hai bên thỏa thuận nhưng không được vượt quá thời hạn nêu trong các giấy tờ xác định quyền sử dụng hợp pháp tại địa điểm mua điện",
+            "Tối đa là 10 năm",
+            "Không quá 3 tháng",
+            "Tối đa không quá 5 năm"
+        ],
+        "answer": "Do hai bên thỏa thuận nhưng không được vượt quá thời hạn nêu trong các giấy tờ xác định quyền sử dụng hợp pháp tại địa điểm mua điện"
+    },
+    {
+        "question": "Nội dung chính của Hợp đồng mua bán điện bao gồm những nội dung gì?",
+        "options": [
+            "Tất cả các đáp án",
+            "Chủ thể hợp đồng, tiêu chuẩn và chất lượng dịch vụ, giá điện, phương thức và thời hạn thanh toán, trách nhiệm của các bên khi hợp đồng bị vi phạm",
+            "Quyền và nghĩa vụ các bên, mục đích sử dụng điện",
+            "Điều kiện chấm dứt hợp đồng, thời hạn hợp đồng và các nội dung khác do hai bên thỏa thuận."
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Bên mua điện nếu không thanh toán tiền điện thì trong khoảng thời gian bao lâu Bên bán điện có quyền ngừng cấp điện sau khi đã thông báo 2 lần và thông báo thời điểm ngừng cấp điện trước 24h?",
+        "options": [
+            "15 ngày, kể từ ngày thông báo thanh toán tiền điện lần đầu tiên",
+            "15 ngày, kể từ ngày bên bán điện ghi chỉ số công tơ điện",
+            "07 ngày theo thời hạn thanh toán đã thỏa thuận trong hợp đồng",
+            "10 ngày, kể từ ngày thông báo thanh toán tiền điện lần đầu tiên."
+        ],
+        "answer": "15 ngày, kể từ ngày thông báo thanh toán tiền điện lần đầu tiên"
+    },
+    {
+        "question": "Khi sử dụng dịch vụ cấp điện mới trung áp, khách hàng đăng ký sử dụng điện ngoài mục đích sinh hoạt phải cung cấp các giấy tờ nào sau đây?",
+        "options": [
+            "Tất cả các đáp án",
+            "Thông tin xác định chủ thể hợp đồng tại địa điểm mua điện",
+            "Thông tin xác định mục đích tại địa điểm mua điện",
+            "Hồ sơ đăng ký đấu nối "
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Khi thay đổi chủ thể hợp đồng mua bán điện, khách hàng sử dụng điện ngoài mục đích sinh hoạt cần cung cấp các nội dung nào sau đây?",
+        "options": [
+            "Tất cả các đáp án",
+            "Thông tin chứng thực của chủ thể ký kết hợp đồng mua bán điện",
+            "Thông tin xác định chủ thể hợp đồng tại địa điểm mua điện",
+            "Thông tin xác định mục đích tại địa điểm mua điện"
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "KH sản xuất, kinh doanh dịch vụ có công suất đăng ký ≥ 40kW, khi thay đổi công suất sử dụng điện cần cung cấp các nội dung nào sau đây?",
+        "options": [
+            "Tất cả các đáp án",
+            "Đề nghị thay đổi công suất",
+            "Thông tin chứng thực của chủ thể ký kết hợp đồng mua bán điện",
+            "Thông tin đăng ký biểu đồ phụ tải"
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Khi thay đổi mục đích sử dụng điện, khách hàng cần cung cấp các nội dung nào sau đây?",
+        "options": [
+            "Tất cả các đáp án",
+            "Đề nghị thay đổi công suất",
+            "Thông tin chứng thực của chủ thể ký kết hợp đồng mua bán điện",
+            "Thông tin xác định mục đích sử dụng điện"
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Thời điểm bắt đầu có hiệu lực của hợp đồng mua bán điện đối với khách hàng mua điện phục vụ mục đích sinh hoạt được xác định từ ngày nào?",
+        "options": [
+            "Do hai bên thỏa thuận",
+            "Kể từ ngày ký Hợp đồng",
+            "Kể từ ngày Bên bán điện nhận được thư bảo lãnh thực hiện hợp đồng do Ngân hàng của Bên mua điện phát hành.",
+            "Kể từ ngày đóng điện"
+        ],
+        "answer": "Do hai bên thỏa thuận"
+    },
+    {
+        "question": "Đâu là các hành vi vi phạm hợp đồng của Bên mua điện?",
+        "options": [
+            "Tất cả các đáp án",
+            "Sử dụng điện sai mục đích ghi trong hợp đồng",
+            "Chậm trả tiền điện theo quy định mà không có lý do chính đáng",
+            "Không thanh lý hợp đồng khi không sử dụng điện"
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Bảo đảm thực hiện hợp đồng dịch vụ hỗ trợ kinh doanh điện theo các hình thức nào sau đây?",
+        "options": [
+            "Tất cả các đáp án",
+            "Ký quỹ",
+            "Đặt cọc bằng tiền",
+            "Bảo lãnh của Ngân hàng"
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Bên nhận dịch vụ hỗ trợ kinh doanh điện được nhận dữ liệu hóa đơn/biên nhận in sẵn/hóa đơn tiền điện có giá trị tối đa bằng bao nhiêu so với giá trị bảo đảm thực hiện hợp đồng?",
+        "options": [
+            "0.95",
+            "0.8",
+            "0.9",
+            "1"
+        ],
+        "answer": "0.95"
+    },
+    {
+        "question": "Thời gian hiệu lực của bảo đảm thực hiện hợp đồng dịch vụ hỗ trợ kinh doanh điện tối thiểu phải bằng thời gian của hiệu lực hợp đồng cộng với bao nhiêu ngày?",
+        "options": [
+            "10 ngày",
+            "15 ngày",
+            "20 ngày",
+            "25 ngày"
+        ],
+        "answer": "10 ngày"
+    },
+    {
+        "question": "Thời hạn hợp đồng dịch vụ hỗ trợ kinh doanh điện được quy định như thế nào?",
+        "options": [
+            "Do các bên thỏa thuận nhưng tối đa là 3 năm",
+            "6 năm",
+            "4 năm",
+            "5 năm "
+        ],
+        "answer": "Do các bên thỏa thuận nhưng tối đa là 3 năm"
+    },
+    {
+        "question": "Hình thức bảo đảm thực hiện hợp đồng với Hợp đồng cung cấp dịch vụ hỗ trợ thu tiền điện của các tổ chức trung gian là gì?",
+        "options": [
+            "Bảo lãnh ngân hàng",
+            "Ký quỹ",
+            "Đặt cọc bằng tiền",
+            "Tất cả các hình thức trên"
+        ],
+        "answer": "Bảo lãnh ngân hàng"
+    },
+    {
+        "question": "Thời gian hiệu lực của bảo đảm thực hiện hợp đồng cung cấp dịch vụ hỗ trợ thu tiền điện tối thiểu phải bằng thời gian của hiệu lực hợp đồng cộng với bao nhiêu ngày?",
+        "options": [
+            "30 ngày ",
+            "10 ngày",
+            "15 ngày làm việc",
+            "30 ngày làm việc"
+        ],
+        "answer": "30 ngày "
+    },
+    {
+        "question": "Bảng kê hóa đơn tiền điện được lập hàng tháng, lưu trữ điện tử trong thời gian bao lâu?",
+        "options": [
+            "5 năm",
+            "3 năm",
+            "10 năm",
+            "Vĩnh viễn"
+        ],
+        "answer": "5 năm"
+    },
+    {
+        "question": "Hóa đơn điện tử được chuyển đổi sang hóa đơn giấy bao nhiêu lần?",
+        "options": [
+            "1 lần",
+            "Nhiều lần",
+            "Không chuyển đổi được",
+            "2 lần"
+        ],
+        "answer": "1 lần"
+    },
+    {
+        "question": "Việc tổ chức thực hiện thu tiền điện phải đảm bảo?",
+        "options": [
+            "Tất cả các đáp án",
+            "Thực hiện đúng phương thức thanh toán đã thỏa thuận trong hợp đồng mua bán điện",
+            "Tạo điều kiện thuận lợi cho khách hàng thanh toán theo mọi hình thức",
+            "Thực hiện đúng thời gian và số lần thu trong tháng theo hợp đồng đã ký kết hoặc đã thỏa thuận với khách hàng"
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Bên nhận dịch vụ hỗ trợ kinh doanh điện không được phép làm những công việc nào?",
+        "options": [
+            "Ký hợp đồng mua bán điện với khách hàng",
+            "Ghi chỉ số công tơ điện ",
+            "Thu, nộp tiền điện và thanh quyết toán tiền điện, biên nhận thanh toán/hóa đơn tiền điện",
+            "Sửa chữa nhỏ lẻ lưới điện hạ thế theo hợp đồng"
+        ],
+        "answer": "Ký hợp đồng mua bán điện với khách hàng"
+    },
+    {
+        "question": "Những công việc bên nhận làm dịch vụ có thể được thuê làm thêm?",
+        "options": [
+            "Tất cả các đáp án",
+            "Tham gia treo, tháo công tơ; kiểm tra công tơ điện; Kiểm tra việc sử dụng điện theo hợp đồng mua bán điện",
+            "Tham gia tuyên truyền các biện pháp sử dụng điện an toàn và tiết kiệm điện.",
+            "Phát quang hành lang tuyến và bảo vệ tài sản lưới điện khu vực được giao làm dịch vụ"
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Việc thanh toán tiền mua công suất phản kháng được thực hiện như thế nào??",
+        "options": [
+            "Cùng kỳ với kỳ hóa đơn điện năng tác dụng",
+            "01 tháng/lần",
+            "01 quý/lần",
+            "01 năm/lần"
+        ],
+        "answer": "Cùng kỳ với kỳ hóa đơn điện năng tác dụng"
+    },
+    {
+        "question": "Đối tượng khách hàng nào cần cung cấp thông tin giấy phép hoạt động điện lực khi đăng ký mua điện trung áp?",
+        "options": [
+            "Khách hàng mua buôn điện (trừ trường hợp mua buôn điện nông thôn có công suất đăng ký ≤ 50kVA)",
+            "Khách hàng mua buôn điện nông thôn có công suất đăng ký ≤ 50kVA",
+            "Khách hàng mua buôn điện nông thôn có công suất đăng ký >50kVA",
+            "Tất cả các khách hàng mua buôn điện"
+        ],
+        "answer": "Khách hàng mua buôn điện (trừ trường hợp mua buôn điện nông thôn có công suất đăng ký ≤ 50kVA)"
+    },
+    {
+        "question": "Đơn vị nào có thẩm quyền ký kết thỏa thuận đấu nối với khách hàng trung áp có tổng dung lượng trên 2000 kVA ?",
+        "options": [
+            "Công ty Điện lực",
+            "Sở Công thương",
+            "UBND tỉnh ",
+            "Điện lực"
+        ],
+        "answer": "Công ty Điện lực"
+    },
+    {
+        "question": "Đơn vị nào có thẩm quyền ký kết thỏa thuận đấu nối với khách hàng trung áp có tổng dung lượng đến 2000 kVA ?",
+        "options": [
+            "Điện lực",
+            "UBND tỉnh",
+            "Sở Công thương ",
+            "Công ty Điện lực"
+        ],
+        "answer": "Điện lực"
+    },
+    {
+        "question": "Đơn vị nào có thẩm quyền ký kết hợp đồng mua bán điện với khách hàng trung áp có tổng dung lượng trên 2000 kVA ?",
+        "options": [
+            "Công ty Điện lực",
+            "Sở Công thương",
+            "UBND tỉnh ",
+            "Điện lực"
+        ],
+        "answer": "Công ty Điện lực"
+    },
+    {
+        "question": "Đơn vị nào có thẩm quyền ký kết hợp đồng mua bán điện với khách hàng trung áp có tổng dung lượng đến 2000 kVA ?",
+        "options": [
+            "Điện lực",
+            "UBND tỉnh",
+            "Sở Công thương ",
+            "Công ty Điện lực"
+        ],
+        "answer": "Điện lực"
+    },
+    {
+        "question": "Quy trình kiểm tra điều kiện đóng điện điểm đấu nối đối với dịch vụ cấp điện trung áp gồm các nội dung gì, chọn đáp án đầy đủ nhất?",
+        "options": [
+            "Kiểm tra điều kiện đóng điện, đăng ký lịch cắt điện (nếu có), thông báo thời gian, phương thức đóng điện",
+            "Kiểm tra điều kiện đóng điện, thông báo thời gian đóng điện",
+            "Kiểm tra điều kiện đóng điện, đăng ký lịch cắt điện",
+            "Thông báo thời gian, phương thức đóng điện"
+        ],
+        "answer": "Kiểm tra điều kiện đóng điện, đăng ký lịch cắt điện (nếu có), thông báo thời gian, phương thức đóng điện"
+    },
+    {
+        "question": "Trình tự, thủ tục thỏa thuận, thực hiện đấu nối ở cấp điện áp trung áp được thực hiện theo quy định nào?",
+        "options": [
+            "Theo quy định tại Thông tư 39/2015/TT-BCT ngày 18/11/2015 ",
+            "Theo quy định tại Thông tư 43/2012/TT-BCT ngày 27/12/2012",
+            "Theo quy định tại Thông tư 43/2013/TT-BCT ngày 31/12/2013",
+            "Theo quy định của đơn vị phân phối điện"
+        ],
+        "answer": "Theo quy định tại Thông tư 39/2015/TT-BCT ngày 18/11/2015 "
+    },
+    {
+        "question": "Mẫu biên bản thỏa thuận đấu nối lưới điện trung áp do đơn vị nào ban hành?",
+        "options": [
+            "Bộ Công thương",
+            "Tập đoàn Điện lực Việt Nam",
+            "Sở Công thương ",
+            "Công ty Điện lực"
+        ],
+        "answer": "Bộ Công thương"
+    },
+    {
+        "question": "Đơn vị nào chịu trách nhiệm báo cáo định kỳ với cơ quan quản lý quy hoạch tình hình đầu tư xây dựng các công trình điện trung áp có trạm riêng? ",
+        "options": [
+            "Đơn vị phân phối điện",
+            "Khách hàng",
+            "Nhà thầu xây dựng",
+            "Sở Xây dựng"
+        ],
+        "answer": "Đơn vị phân phối điện"
+    },
+    {
+        "question": "Hình thức đối soát dữ liệu với C06 (đối soát định danh) trên CMIS là hình thức? ",
+        "options": [
+            "Trực tuyến",
+            "Offline",
+            "Trực tiếp",
+            "Tất cả các đáp án"
+        ],
+        "answer": "Trực tuyến"
+    },
+    {
+        "question": "Các hồ sơ  trong hợp đồng mua bán điện điện tử, sử dụng hình thức nào đề ký xác nhận phía khách hàng?",
+        "options": [
+            "Xác thực bằng mã OTP hoặc USB Token",
+            "Ký trên màn hình thiết bị thông minh.",
+            "Dùng vân tay",
+            "Chữ ký số tích hợp SIM"
+        ],
+        "answer": "Xác thực bằng mã OTP hoặc USB Token"
+    },
+    {
+        "question": "Các hồ sơ trong hợp đồng mua bán điện điện tử, sử dụng hình thức nào đề ký xác nhận phía ngành điện?",
+        "options": [
+            "Chữ ký số tích hợp HSM",
+            "Ký trên màn hình thiết bị thông minh",
+            "Dùng vân tay",
+            "Xác thực bằng mã OTP"
+        ],
+        "answer": "Chữ ký số tích hợp HSM"
+    },
+    {
+        "question": "Dịch vụ cấp điện hạ áp những hồ sơ ký điện tử nào cần phải ký khách hàng?",
+        "options": [
+            "Biên bản khảo sát, Biên bản treo tháo, Hợp đồng mua bán điện",
+            "Biểu đồ phụ tải",
+            "Thông tin cư trú",
+            "Phương án cấp điện nội bộ"
+        ],
+        "answer": "Biên bản khảo sát, Biên bản treo tháo, Hợp đồng mua bán điện"
+    },
+    {
+        "question": "Để hoàn tất được dịch vụ, các hồ sơ ký  phải ở trạng thái nào?",
+        "options": [
+            "Đã ký ngành điện",
+            "Đã ký khách hàng",
+            "Không cần ký",
+            "Cả 3 đáp án "
+        ],
+        "answer": "Đã ký ngành điện"
+    },
+    {
+        "question": "Để chấm dứt hợp đồng mua bán điện trên chương trình CMIS, bạn cần làm gì sau đây, chọn phương án đầy đủ nhất?",
+        "options": [
+            "Chốt chỉ số, lập hóa đơn lẻ, phát hành hóa đơn lẻ, chấm nợ; Tháo công tơ; Lập biên bản chấm dứt hợp đồng",
+            "Chốt chỉ số, phát hành hóa đơn, chấm nợ, tháo công tơ",
+            "Tháo công tơ, chấm dứt hợp đồng",
+            "Lập biên bản chấm dứt hợp đồng"
+        ],
+        "answer": "Chốt chỉ số, lập hóa đơn lẻ, phát hành hóa đơn lẻ, chấm nợ; Tháo công tơ; Lập biên bản chấm dứt hợp đồng"
+    },
+    {
+        "question": "Khách hàng có thể thay đổi tên và mật khẩu để đăng nhập website: cskh.npc.com.vn không?",
+        "options": [
+            "Khách hàng chỉ thay đổi được mật khẩu, không thay đổi được tên đăng nhập",
+            "Khách hàng tự thay đổi được",
+            "Khách hàng không thay đổi được",
+            "Khách hàng chỉ thay đổi được tên, không thay đổi được mật khẩu"
+        ],
+        "answer": "Khách hàng chỉ thay đổi được mật khẩu, không thay đổi được tên đăng nhập"
+    },
+    {
+        "question": "Để thực hiện cập nhật phiên bản mới nhất của App CMIS Mobile trên Android, người dùng cần làm gì?",
+        "options": [
+            "Truy cập đường dẫn https://apiktgs.npc.com.vn/webcmismobile/udhtcmis.html để lấy bản cập nhật",
+            "Truy cập CH Play để cập nhật phiên bản",
+            "Truy cập vào chương trình CMIS",
+            "Tất cả các đáp án"
+        ],
+        "answer": "Truy cập đường dẫn https://apiktgs.npc.com.vn/webcmismobile/udhtcmis.html để lấy bản cập nhật"
+    },
+    {
+        "question": "Khách hàng có thể xem hoặc tải hóa đơn tiền điện được khi nào?",
+        "options": [
+            "Sau khi đã thanh toán",
+            "Đã ghi chỉ số",
+            "Bất cứ khi nào",
+            "Tất cả các đáp án"
+        ],
+        "answer": "Sau khi đã thanh toán"
+    },
+    {
+        "question": "Sự cố nào là sự cố mức độ nghiêm trọng?",
+        "options": [
+            "Mất kết nối giữa HES-MDMS-CMIS",
+            "Lỗi chức năng nghiệp vụ của hệ thống phần mềm Cổng thanh toán điện tử",
+            "Khách hàng không tải được thông báo",
+            "CRM hoạt động không ổn định"
+        ],
+        "answer": "Mất kết nối giữa HES-MDMS-CMIS"
+    },
+    {
+        "question": "Theo quyết định 3122/QĐ-EVNNPC của Tổng công ty Điện lực miền Bắc ngày 20/12/2023, loại hình dịch vụ điện lực nào dưới đây chưa được Tổng công ty ủy quyền cho Công ty Điện lực?",
+        "options": [
+            "Cho thuê tài sản",
+            "Tư vấn Thiết kế công trình điện",
+            "Tư vấn Giám sát công trình điện",
+            "Xây lắp công trình điện"
+        ],
+        "answer": "Cho thuê tài sản"
+    },
+    {
+        "question": "Định mức thuê quản lý, vận hành hàng năm đối với công trình điện đấu vào lưới điện quốc gia được ban hành theo văn bản nào của EVN?",
+        "options": [
+            "Văn bản số 4096/EVN-ĐT ngày 02/10/2015 của Tập đoàn Điện lực Việt Nam",
+            "Văn bản số 7815/EVN-ĐT ngày 26/6/2024 của Tập đoàn Điện lực Việt Nam",
+            "Văn bản số 7032/EVN-ĐT ngày 02/12/2020 của Tập đoàn Điện lực Việt Nam",
+            "Văn bản số 4092/EVN-ĐT ngày 02/12/2022 của Tập đoàn Điện lực Việt Nam"
+        ],
+        "answer": "Văn bản số 4096/EVN-ĐT ngày 02/10/2015 của Tập đoàn Điện lực Việt Nam"
+    },
+    {
+        "question": "Để đảm bảo tính cạnh tranh, tăng doanh thu công tác sản xuất khác các Đơn vị được phép chiết giảm tối đa bao nhiêu phần trăm chi phí định mức trong công tác SXKD dịch vụ điện lực?",
+        "options": [
+            "Chiết giảm tối đa 10% chi phí định mức trong công tác sản xuất khác",
+            "Chiết giảm tối đa 5% chi phí định mức trong công tác sản xuất khác",
+            "Chiết giảm tối đa 20% chi phí định mức trong công tác sản xuất khác",
+            "Chiết giảm tối đa 15% chi phí định mức trong công tác sản xuất khác"
+        ],
+        "answer": "Chiết giảm tối đa 10% chi phí định mức trong công tác sản xuất khác"
+    },
+    {
+        "question": "Thẩm quyền phê duyệt điều chỉnh tăng giá bán lẻ điện bình quân hàng năm của EVN?",
+        "options": [
+            "Từ 3% đến dưới 5% so với giá bán điện bình quân hiện hành",
+            "Từ 5% đến dưới 7% so với giá bán điện bình quân hiện hành",
+            "Từ 7% đến dưới 10% so với giá bán điện bình quân hiện hành",
+            "Từ 10% so với giá bán điện bình quân hiện hành"
+        ],
+        "answer": "Từ 3% đến dưới 5% so với giá bán điện bình quân hiện hành"
+    },
+    {
+        "question": "Thời gian điều chỉnh giá bán điện bình quân tối thiểu được quy định là bao lâu từ lần điều chỉnh giá điện gần nhất?",
+        "options": [
+            "03 tháng",
+            "05 tháng",
+            "04 tháng",
+            "06 tháng "
+        ],
+        "answer": "03 tháng"
+    },
+    {
+        "question": "Cơ sở tiêm chủng đã được công bố đủ điều kiện tiêm chủng trên trang thông tin điện tử của Sở Y tế sẽ áp giá bán lẻ điện như thế nào?",
+        "options": [
+            "Giá bán lẻ điện cho khối hành chính, sự nghiệp",
+            "Giá bán lẻ điện cho sản xuất",
+            "Giá bán lẻ điện cho kinh doanh",
+            "Giá bán lẻ điện cho sinh hoạt"
+        ],
+        "answer": "Giá bán lẻ điện cho khối hành chính, sự nghiệp"
+    },
+    {
+        "question": "Bên mua điện sinh hoạt có các hộ sử dụng điện dùng chung công tơ, khi ký kết hợp đồng mua điện bán điện thì các hộ dùng chung công tơ có cần ủy quyền cho đại diện ký hợp đồng không?",
+        "options": [
+            "Có danh sách ủy quyền của tất cả các hộ dùng chung",
+            "Không cần ủy quyền",
+            "Có hoặc không có đều được",
+            "Chỉ cần một số hộ đại diện"
+        ],
+        "answer": "Có danh sách ủy quyền của tất cả các hộ dùng chung"
+    },
+    {
+        "question": "Trường hợp cho sinh viên và người lao động thuê nhà dưới 12 tháng và chủ nhà không thực hiện kê khai được đầy đủ số người sử dụng điện thì áp dụng giá bán lẻ điện như thế nào?",
+        "options": [
+            "Áp dụng giá bán kẻ điện sinh hoạt của bậc 3",
+            "Áp dụng giá bán lẻ điện sinh hoạt của bậc 2",
+            "Áp dụng giá bán lẻ điện sinh hoạt của bậc 4",
+            "Áp dụng giá bán lẻ điện sinh hoạt theo định mức hộ."
+        ],
+        "answer": "Áp dụng giá bán kẻ điện sinh hoạt của bậc 3"
+    },
+    {
+        "question": "Bệnh viện A cho Công ty B thuê căng tin để làm dịch vụ, giá bán điện cho căng tin sẽ áp như thế nào?",
+        "options": [
+            "Giá bán lẻ điện cho kinh doanh",
+            "Giá bán lẻ điện cho sản xuất.",
+            "Giá bán lẻ điện cho khối hành chính, sự nghiệp.",
+            "Giá bán lẻ điện cho sinh hoạt."
+        ],
+        "answer": "Giá bán lẻ điện cho kinh doanh"
+    },
+    {
+        "question": "Dự báo phụ tải hàng tháng theo quy định tại Quyết định 07/QĐ-ĐTĐL sai số trong giới hạn?",
+        "options": [
+            "±3%",
+            "±1,5%",
+            "±5%",
+            "±7%"
+        ],
+        "answer": "±3%"
+    },
+    {
+        "question": "Giới hạn điều chỉnh phụ tải (nhóm phụ tải loại 1) là thông báo cho khách hàng trước ít nhất mấy giờ?",
+        "options": [
+            "2 giờ",
+            "1 giờ",
+            "3 giờ",
+            "4 giờ"
+        ],
+        "answer": "2 giờ"
+    },
+    {
+        "question": "Giới hạn điều chỉnh phụ tải (nhóm phụ tải loại 2) là thông báo cho khách hàng trước ít nhất mấy giờ?",
+        "options": [
+            "24 giờ",
+            "17 giờ",
+            "20 giờ",
+            "12 giờ"
+        ],
+        "answer": "24 giờ"
+    },
+    {
+        "question": "Thời gian điều chỉnh phụ tải mỗi sự kiện tối đa không quá bao nhiêu phút?",
+        "options": [
+            "180 phút",
+            "60 phút",
+            "120 phút",
+            "240 phút"
+        ],
+        "answer": "180 phút"
+    },
+    {
+        "question": "Chương trình DR thương mại là gì?",
+        "options": [
+            "Là chương trình DR áp dụng cơ chế khuyến khích tài chính trực tiếp cho các khách hàng tham gia chương trình.",
+            "Là chương trình DR được thực hiện dựa vào sự hợp tác, tự nguyện tham gia của khách hàng sử dụng điện. ",
+            "Là chương trình bắt buộc khách hàng thực hiện.",
+            "Cả 3 đáp án "
+        ],
+        "answer": "Là chương trình DR áp dụng cơ chế khuyến khích tài chính trực tiếp cho các khách hàng tham gia chương trình."
+    },
+    {
+        "question": "Phương pháp tính toán đường phụ tải cơ sở của các khách hàng tham gia sự kiện DR thực hiện theo Quyết định nào?",
+        "options": [
+            "Quyết định số 54/QĐ-ĐTĐL ngày 12/6/2019",
+            "Quyết định số 07/QĐ-ĐTĐL ngày 14/03/2013",
+            "Quyết định số 16/QĐ-ĐTĐL ngày 28/02/2019",
+            "Quyết định số 46/QĐ-ĐTĐL ngày 08/5/2019"
+        ],
+        "answer": "Quyết định số 54/QĐ-ĐTĐL ngày 12/6/2019"
+    },
+    {
+        "question": "Kết thúc khảo sát thực tế cơ sở, Đơn vị Điện lực thông báo cho khách hàng kết luận về việc tham gia chương trình DR trong mấy ngày làm việc?",
+        "options": [
+            "03 ngày làm việc",
+            "01 ngày làm việc",
+            "02 ngày làm việc",
+            "04 ngày làm việc"
+        ],
+        "answer": "03 ngày làm việc"
+    },
+    {
+        "question": "Phương pháp dự báo phụ tải điện nhóm các khách hàng lớn (sử dụng điện ≥ 1 triệu kWh/năm) theo quy trình kinh doanh?",
+        "options": [
+            "Phương pháp trực tiếp",
+            "Phương pháp dự báo thống kê",
+            "Phương pháp chuyên gia",
+            "Cả 3 đáp án "
+        ],
+        "answer": "Phương pháp trực tiếp"
+    },
+    {
+        "question": "Phương pháp dự báo phụ tải điện nhóm các khách hàng còn lại (sử dụng điện < 1 triệu kWh/năm) theo quy trình kinh doanh?",
+        "options": [
+            "Phương pháp dự báo thống kê",
+            "Phương pháp trực tiếp",
+            "Phương pháp chuyên gia",
+            "Cả 3 đáp án "
+        ],
+        "answer": "Phương pháp dự báo thống kê"
+    },
+    {
+        "question": "Khách hàng đã đăng ký hoặc ký Hợp đồng hoặc Thỏa thuận tham gia chương trình DR nhưng quyết định không tiếp tục tham gia chương trình DR, khách hàng cần phải làm gì?",
+        "options": [
+            "Khách hàng gửi thông báo chính thức bằng văn bản hoặc hình thức khác do hai bên thỏa thuận cho Đơn vị Điện lực",
+            "Khách hàng không phải gửi thông báo cho Đơn vị Điện lực",
+            "Khách hàng phải tiếp tục tham gia chương trình DR do đã ký Hợp đồng hoặc Thỏa thuận với Đơn vị Điện lực",
+            "Cả 3 đáp án "
+        ],
+        "answer": "Khách hàng gửi thông báo chính thức bằng văn bản hoặc hình thức khác do hai bên thỏa thuận cho Đơn vị Điện lực"
+    },
+    {
+        "question": "Đơn vị nào có trách nhiệm đầu tư và lắp đặt toàn bộ các thiết bị đo đếm điện và thiết bị phụ trợ cho việc đo đếm điện?",
+        "options": [
+            "Bên bán điện hoặc hai bên có thỏa thuận khác đảm bảo quyền lợi giữa các bên nhưng không trái với quy định của pháp luật",
+            "Bên mua điện hoặc hai bên có thỏa thuận khác",
+            "Mỗi bên đầu tư 50% giá trị",
+            "Bên bán điện chỉ đầu tư công tơ"
+        ],
+        "answer": "Bên bán điện hoặc hai bên có thỏa thuận khác đảm bảo quyền lợi giữa các bên nhưng không trái với quy định của pháp luật"
+    },
+    {
+        "question": "Theo Quy định của EVN khi công tơ lắp đặt trong khu vực quản lý của bên mua điện thì bên mua điện có trách nhiệm gì đối với thiết bị đo đếm?",
+        "options": [
+            "Bên mua điện có trách nhiệm bảo vệ công tơ lắp đặt trong khu vực quản lý của mình và thông báo kịp thời cho bên bán điện khi phát hiện công tơ bị mất hoặc bị hỏng",
+            "Không phải chịu trách nhiệm bảo vệ đối với thiết bị đo đếm",
+            "Không cần thông báo kịp thời cho bên bán điện khi phát hiện công tơ bị mất hoặc bị hỏng.",
+            "nan"
+        ],
+        "answer": "Bên mua điện có trách nhiệm bảo vệ công tơ lắp đặt trong khu vực quản lý của mình và thông báo kịp thời cho bên bán điện khi phát hiện công tơ bị mất hoặc bị hỏng"
+    },
+    {
+        "question": "Khi công tơ lắp đặt ngoài khu vực quản lý của bên mua điện thì bên bán điện có trách nhiệm gì đối với thiết bị đo đếm?",
+        "options": [
+            "Bên bán điện có trách nhiệm bảo vệ công tơ lắp đặt ở ngoài khu vực quản lý của bên mua điện",
+            "Bên bán điện yêu cầu bên bán điện đều có trách nhiệm bảo vệ công tơ.",
+            "Bên bán điện bảo vệ công tơ lắp đặt trong khu vực quản lý của bên mua. ",
+            "nan"
+        ],
+        "answer": "Bên bán điện có trách nhiệm bảo vệ công tơ lắp đặt ở ngoài khu vực quản lý của bên mua điện"
+    },
+    {
+        "question": "Khi kiểm định lại thiết bị đo đếm xác định hoạt động không chính xác, bên bán điện phải thực hiện những việc gì?",
+        "options": [
+            "Phải trả chi phí kiểm định và hoàn trả khoản tiền thu thừa cho bên mua điện (nếu có)",
+            "Không phải thực hiện việc gì",
+            "Chỉ thanh toán chi phí kiểm định lại",
+            "Hai bên cùng nhau thanh toán theo thỏa thuận"
+        ],
+        "answer": "Phải trả chi phí kiểm định và hoàn trả khoản tiền thu thừa cho bên mua điện (nếu có)"
+    },
+    {
+        "question": "Biện pháp kiểm soát về đo lường đối với các phương tiện đo đếm điện năng được quy định bao gồm:",
+        "options": [
+            "Cả 3 đáp án",
+            "Phê duyệt mẫu phương tiện đo",
+            "Kiểm định ban đầu/định kỳ.",
+            "Kiểm định sau sửa chữa."
+        ],
+        "answer": "Cả 3 đáp án"
+    },
+    {
+        "question": "Từ sau ngày 31/12/2020 tới nay, khách hàng có được đấu nối hệ thống ĐMTMN vào lưới điện của EVN hay không? Nếu được đấu nối thì áp dụng theo Quy định pháp lý nào?",
+        "options": [
+            "Không được đấu nối. Từ sau ngày 31/12/2020 tới nay chưa có quy định và hướng dẫn nào về việc đấu nối ĐMTMN vào lưới điện EVN của các cơ quan quản lý nhà nước",
+            "Được đấu nối vào lưới điện nếu khách hàng có lắp đặt thiết bị chặn phát sản lượng (Zero Export) lên lưới điện của EVN",
+            "Được đấu nối vào lưới điện EVN không hạn chế công suất",
+            "Được đấu nối vào lưới điện EVN nếu khách hàng cam kết tự dùng hết sản lượng phát ra"
+        ],
+        "answer": "Không được đấu nối. Từ sau ngày 31/12/2020 tới nay chưa có quy định và hướng dẫn nào về việc đấu nối ĐMTMN vào lưới điện EVN của các cơ quan quản lý nhà nước"
+    },
+    {
+        "question": "Việc phát hiện và báo cáo kịp thời các hiện tượng bất thường của hệ thống đo đếm điện năng, như: Công tơ báo lỗi, hư hỏng, bị tháo mất, bị mất chì,…trách nhiệm chính của ai?",
+        "options": [
+            "Thuộc trách nhiệm của nhân viên ghi chỉ số công tơ",
+            "Thuộc trách nhiệm của Đội trưởng Đội Quản lý Tổng hợp",
+            "Thuộc trách nhiệm của Trưởng phòng Kinh doanh",
+            "Thuộc trách nhiệm của khách hàng"
+        ],
+        "answer": "Thuộc trách nhiệm của nhân viên ghi chỉ số công tơ"
+    },
+    {
+        "question": "Nguyên tắc nào chưa đúng khi ghi nhận/thu thập chỉ số công tơ:",
+        "options": [
+            "Khi treo/tháo công tơ chỉ cần ghi các chữ số nguyên",
+            "Công tơ có đơn vị hiển thị là kWh, ghi các chữ số nguyên",
+            "Công tơ có hiển thị là MWh, ghi tất cả chữ số nguyên và chữ số thập phân",
+            "nan"
+        ],
+        "answer": "Khi treo/tháo công tơ chỉ cần ghi các chữ số nguyên"
+    },
+    {
+        "question": "Bộ phận phúc tra ghi chỉ số chuyên trách hoạt động thế nào với bộ phận ghi chỉ số?",
+        "options": [
+            "Độc lập",
+            "Không độc lập",
+            "Là hai bộ phận không thể tách rời",
+            "nan"
+        ],
+        "answer": "Độc lập"
+    },
+    {
+        "question": "Khi nhận được khiếu nại của khách hàng về chỉ số công tơ, Đơn vị Điện lực phải xử lý như thế nào?",
+        "options": [
+            "Tổ chức kiểm tra, giải quyết kịp thời theo đúng quy định trong vòng 24 giờ (trừ ngày lễ, Tết)",
+            "Người đi ghi chỉ số giải quyết trực tiếp khiếu nại, thắc mắc",
+            "Bộ phận ghi chỉ số báo cáo cấp trên  để giải quyết",
+            "Cả ba câu đúng"
+        ],
+        "answer": "Tổ chức kiểm tra, giải quyết kịp thời theo đúng quy định trong vòng 24 giờ (trừ ngày lễ, Tết)"
+    },
+    {
+        "question": "Khi phát hiện sai sót trong việc ghi chỉ số người phát hiện phải làm gì?",
+        "options": [
+            "Báo cáo cho người có thẩm quyền để xác minh, giải quyết",
+            "Thỏa thuận với khác hàng để điều chỉnh",
+            "Tự điều chỉnh cho hợp lý",
+            "nan"
+        ],
+        "answer": "Báo cáo cho người có thẩm quyền để xác minh, giải quyết"
+    },
+    {
+        "question": "Để phục vụ công tác điều hành, đối với công tơ ranh giới giao nhận điện, công tơ tổng TBA công cộng, công tơ khách hàng có TBA chuyên dùng phải thực hiện ghi chỉ số vào thời điểm nào?",
+        "options": [
+            "00h00 ngày 01 hàng tháng",
+            "24h00 ngày 01 hàng tháng",
+            "00h00 ngày cuối cùng hàng tháng",
+            "24h00 ngày cuối cùng hàng tháng"
+        ],
+        "answer": "00h00 ngày 01 hàng tháng"
+    },
+    {
+        "question": "Theo quy trình kinh doanh, thời gian giao dữ liệu cho nhân viên ghi chỉ số trước thời gian bao lâu?",
+        "options": [
+            "Trước ngày ghi chỉ số không quá 24 h",
+            "Trước ngày ghi chỉ số không quá 12 h",
+            "Trước và sau ngày ghi chỉ số không quá 12 h",
+            "Trước ngày ghi chỉ số không quá 01 ngày"
+        ],
+        "answer": "Trước ngày ghi chỉ số không quá 24 h"
+    },
+    {
+        "question": "Trường hợp kiểm tra phát hiện có hành vi trộm cắp điện, kiểm tra viên điện lực có trách nhiệm lập Biên bản kiểm tra với nội dung nào sau đây?",
+        "options": [
+            "Cả 3 đáp án",
+            "Mô tả hành vi trộm cắp điện và các thông số liên quan tới việc tính toán, xử lý vi phạm sử dụng điện",
+            "Vẽ sơ đồ trộm cắp điện",
+            "Nêu rõ những chứng cứ như phương tiện trộm cắp, ảnh chụp, băng ghi hình, dữ liệu điện tử (nếu có)"
+        ],
+        "answer": "Cả 3 đáp án"
+    },
+    {
+        "question": "Các thành phần tham gia nghiệm thu đo đến ranh giới giữa lưới điện truyền tải và lưới điện phân phối?",
+        "options": [
+            "Tổng công ty Truyền tải Điện, Tổng công ty Điện lực và Công ty Thí nghiệm Điện",
+            "Công ty Mua bán Điện, Tổng công ty Truyền tải Điện, Tổng công ty Điện lực và Công ty Thí nghiệm Điện",
+            "Công ty Mua bán Điện, Tổng công ty Truyền tải Điện, Tổng công ty Điện lực",
+            "Tổng công ty Truyền tải Điện, Tổng công ty Điện lực"
+        ],
+        "answer": "Tổng công ty Truyền tải Điện, Tổng công ty Điện lực và Công ty Thí nghiệm Điện"
+    },
+    {
+        "question": "Các thành phần tham gia nghiệm thu đo đến ranh giới giữa lưới điện phân phối và lưới điện phân phối?",
+        "options": [
+            "Các Tổng công ty Điện lực giao nhận điện và Công ty Thí nghiệm Điện",
+            "Công ty Mua bán Điện, Tổng công ty Truyền tải Điện, Tổng công ty Điện lực và Công ty Thí nghiệm Điện.",
+            "Công ty Mua bán Điện, Tổng công ty Truyền tải Điện, Tổng công ty Điện lực",
+            "Tổng công ty Truyền tải Điện, Tổng công ty Điện lực"
+        ],
+        "answer": "Các Tổng công ty Điện lực giao nhận điện và Công ty Thí nghiệm Điện"
+    },
+    {
+        "question": "Các thành phần tham gia nghiệm thu đo đến ranh giới giữa lưới điện phân phối  và Nhà máy điện > 30MW?",
+        "options": [
+            "Đơn vị phát điện, Tổng công ty Điện lực, Công ty Mua bán Điện, Công ty Thí nghiệm Điện",
+            "Đơn vị phát điện, Tổng công ty Điện lực, Công ty Thí nghiệm Điện",
+            "Tổng công ty Điện lực, Công ty Mua bán Điện, Công ty Thí nghiệm Điện",
+            "Đơn vị phát điện, Tổng công ty Điện lực, Công ty Mua bán Điện"
+        ],
+        "answer": "Đơn vị phát điện, Tổng công ty Điện lực, Công ty Mua bán Điện, Công ty Thí nghiệm Điện"
+    },
+    {
+        "question": "Các thành phần tham gia nghiệm thu đo đến ranh giới giữa lưới điện phân phối và Nhà máy điện ≤ 30MW?",
+        "options": [
+            "Đơn vị phát điện, Tổng công ty Điện lực,  Công ty Thí nghiệm Điện",
+            "Đơn vị phát điện, Tổng công ty Điện lực, Công ty Mua bán Điện, Công ty Thí nghiệm Điện",
+            "Tổng công ty Điện lực, Công ty Mua bán Điện, Công ty Thí nghiệm Điện",
+            "Đơn vị phát điện, Tổng công ty Điện lực, Công ty Mua bán Điện"
+        ],
+        "answer": "Đơn vị phát điện, Tổng công ty Điện lực,  Công ty Thí nghiệm Điện"
+    },
+    {
+        "question": "Theo nghị định 80/2024/NĐ-CP, đơn vị phát điện năng lượng tái tạo từ gió hoặc mặt trời với công suất từ bao nhiêu MW được tham gia thị trường bán buôn điện cạnh tranh",
+        "options": [
+            "10 MW",
+            "8 MW",
+            "15 MW",
+            "30 MW"
+        ],
+        "answer": "10 MW"
+    },
+    {
+        "question": "Theo Quy trình Kinh doanh điện năng, sau khi hoàn thành việc treo/tháo công tơ cho khách hàng, bộ phận treo tháo phải hoàn thành việc cập nhật các thông tin của biên bản treo/tháo vào chương trình CMIS trong thời gian bao nhiêu giờ?",
+        "options": [
+            "Trong vòng 48 giờ",
+            "Trong vòng 12 giờ",
+            "Trong vòng 24 giờ",
+            "Trong vòng 36 giờ"
+        ],
+        "answer": "Trong vòng 48 giờ"
+    },
+    {
+        "question": "Khi treo/tháo công tơ, khi ghi chỉ số phải?",
+        "options": [
+            "Ghi tất cả các số cả phần nguyên và thập phân",
+            "Chỉ ghi các chữ số phần nguyên",
+            "Ghi số phần nguyên và một số sau dấu \",\" của phần thập phân",
+            "nan"
+        ],
+        "answer": "Ghi tất cả các số cả phần nguyên và thập phân"
+    },
+    {
+        "question": "Đối với việc ghi chỉ số từ xa, công tơ điện tử được thu thập qua bộ tập trung (DCU) với tần suất tối thiểu bao nhiêu lần/ngày?",
+        "options": [
+            "1 lần/ngày",
+            "2 lần/ngày",
+            "3 lần/ngày",
+            "24 lần/ngày"
+        ],
+        "answer": "1 lần/ngày"
+    },
+    {
+        "question": "Đối với việc ghi chỉ số từ xa, công tơ điện tử được thu thập qua bộ tập trung (DCU) với tần suất tối đa bao nhiêu lần/ngày?",
+        "options": [
+            "3 lần/ngày",
+            "1 lần/ngày",
+            "2 lần/ngày",
+            "24 lần/ngày"
+        ],
+        "answer": "3 lần/ngày"
+    },
+    {
+        "question": "Đối với việc ghi chỉ số từ xa, công tơ điện tử được thu thập qua modem 4G/5G với tần suất tối thiểu bao nhiêu lần/ngày?",
+        "options": [
+            "6 lần/ngày",
+            "1 lần/ngày",
+            "12 lần/ngày",
+            "24 lần/ngày"
+        ],
+        "answer": "6 lần/ngày"
+    },
+    {
+        "question": "Đối với việc ghi chỉ số từ xa, công tơ điện tử được thu thập qua modem 4G/5G với tần suất tối đa bao nhiêu lần/ngày?",
+        "options": [
+            "24 lần/ngày",
+            "1 lần/ngày",
+            "12 lần/ngày",
+            "48 lần/ngày"
+        ],
+        "answer": "24 lần/ngày"
+    },
+    {
+        "question": "Khách hàng có quyền được thông báo chỉ số công tơ sau bao lâu kết thúc việc ghi chỉ số",
+        "options": [
+            "Trước 24h",
+            "Trước 12h",
+            "Trước 36h",
+            "Trước 48h"
+        ],
+        "answer": "Trước 24h"
+    },
+    {
+        "question": "Khi kiểm tra theo kế hoạch và không phát hiện vi phạm thì Kiểm tra viên điện lực của đơn vị bán buôn điện, đơn vị bán lẻ điện không phải lập Biên bản kiểm tra sử dụng điện (theo mẫu của Thông tư 42/2022/TT-BCT) đối với các nội dung nào dưới đây?",
+        "options": [
+            "Cả 3 đáp án",
+            "Kiểm tra việc thực hiện hợp đồng mua bán điện của bên sử dụng điện.  ",
+            "Kiểm tra việc ngừng sử dụng điện, giảm mức tiêu thụ điện của bên sử dụng điện.",
+            "Kiểm tra và ngăn chặn kịp thời các hành vi bị cấm trong sử dụng điện được quy định tại Điều 7 Luật Điện lực."
+        ],
+        "answer": "Cả 3 đáp án"
+    },
+    {
+        "question": "Khi tiến hành kiểm tra, đơn vị chủ trì kiểm tra phải thành lập tổ kiểm tra hoặc đoàn kiểm tra bao gồm ít nhất:",
+        "options": [
+            "03 thành viên",
+            "02 thành viên",
+            "05 thành viên",
+            "04 thành viên"
+        ],
+        "answer": "03 thành viên"
+    },
+    {
+        "question": "Trong quá trình kiểm tra sử dụng điện, nếu phát hiện hành vi trộm cắp điện, một trong những trách nhiệm của Kiểm tra viên điện lực của bên bán điện:",
+        "options": [
+            "Cung cấp hồ sơ, tài liệu, số liệu tính toán sản lượng điện trộm cắp, số tiền có được từ hành vi trộm cắp điện và số lợi bất hợp pháp cho người có thẩm quyền lập biên bản vi phạm hành chính đang thụ lý vụ việc hoặc cho người có thẩm quyền xử phạt vi phạm hành chính",
+            "Lập biên bản vi phạm hành chính đối với hành vi trộm cắp điện và thông báo cho bên bán điện để thực hiện ngừng cấp điện",
+            "Gửi danh sách người tham gia kiểm tra trộm cắp điện cho chính quyền địa phương",
+            "Gửi hồ sơ cho tòa án nhân dân quận/huyện/thị xã để giải quyết"
+        ],
+        "answer": "Cung cấp hồ sơ, tài liệu, số liệu tính toán sản lượng điện trộm cắp, số tiền có được từ hành vi trộm cắp điện và số lợi bất hợp pháp cho người có thẩm quyền lập biên bản vi phạm hành chính đang thụ lý vụ việc hoặc cho người có thẩm quyền xử phạt vi phạm hành chính"
+    },
+    {
+        "question": "Sau thời gian thỏa thuận, kể từ ngày chấp nhận yêu cầu bồi thường thiệt hại do vi phạm nghĩa vụ hợp đồng, nếu bên vi phạm không nộp tiền bồi thường thì phải chịu lãi suất chậm trả trên số tiền bồi thường thiệt hại:",
+        "options": [
+            "Theo thỏa thuận trong hợp đồng, nếu không thỏa thuận trong hợp đồng thì theo quy định của pháp luật",
+            "Theo quy định của pháp luật, không cần theo thỏa thuận trong hợp đồng",
+            "Theo lãi suất của ngân hàng quốc tế",
+            "Theo quy định riêng của từng Điện lực"
+        ],
+        "answer": "Theo thỏa thuận trong hợp đồng, nếu không thỏa thuận trong hợp đồng thì theo quy định của pháp luật"
+    },
+    {
+        "question": "Màu của Thẻ kiểm tra viên điện lực?",
+        "options": [
+            "Màu vàng cam",
+            "Màu đỏ",
+            "Màu xanh",
+            "Màu trắng"
+        ],
+        "answer": "Màu vàng cam"
+    },
+    {
+        "question": "Trong quá trình kiểm tra sử dụng điện, đơn vị điện lực kiểm tra phát hiện công tơ điện bị mất, hệ thống đo đếm điện năng bị hư hỏng, sai lệch vị trí hoặc có dấu hiệu không bình thường, phải: ",
+        "options": [
+            "Lập Biên bản kiểm tra sử dụng điện ghi rõ hiện trạng và kiến nghị biện pháp xử lý",
+            "Lập Biên bản hiện trường",
+            "Không cần lập biên bản và chỉ ghi nhận trên hệ thống thông tin quản lý của đơn vị",
+            "Chỉ lập Biên bản treo tháo công tơ nội bộ"
+        ],
+        "answer": "Lập Biên bản kiểm tra sử dụng điện ghi rõ hiện trạng và kiến nghị biện pháp xử lý"
+    },
+    {
+        "question": "Khi tiến hành kiểm tra sử dụng điện phát hiện khách hành có hành vi trộm cắp điện, kiểm tra viên điện lực không có quyền lập những biên bản nào?",
+        "options": [
+            "Biên bản vi phạm hành chính trong lĩnh vực điện lực",
+            "Biên bản kiểm tra sử dụng điện",
+            "Hồ sơ, tài liệu, số liệu tính toán sản lượng điện trộm cắp",
+            "Toàn bộ tang vật, phương tiện liên quan đến vụ việc có dấu hiệu về hành vi trộm cắp điện"
+        ],
+        "answer": "Biên bản vi phạm hành chính trong lĩnh vực điện lực"
+    },
+    {
+        "question": "Trong quá trình kiểm tra, xử lý hành vi trộm cắp điện,  người có thẩm quyền xử phạt vi phạm hành chính đang giải quyết vụ việc có trách nhiệm:",
+        "options": [
+            "Cả 3 đáp án",
+            "Thông báo bằng văn bản cho bên bán điện để thực hiện ngừng cung cấp điện ngay nhưng không quá 24 giờ kể từ thời điểm nhận được Biên bản vi phạm hành chính.",
+            " Xem xét, ra Quyết định xử phạt vi phạm hành chính theo quy định của pháp luật hoặc chuyển hồ sơ cho cơ quan có thẩm quyền tiến hành tố tụng hình sự để truy cứu trách nhiệm hình sự theo quy định của pháp luật khi giá trị sản lượng điện trộm cắp từ 2.000.000 đồng trở lên.",
+            "Chuyển hồ sơ cho cơ quan có thẩm quyền tiến hành tố tụng hình sự để truy cứu trách nhiệm hình sự theo quy định của pháp luật khi giá trị sản lượng điện trộm cắp từ 2.000.000 đồng trở lên."
+        ],
+        "answer": "Cả 3 đáp án"
+    },
+    {
+        "question": "Trong trường hợp trộm cắp điện, (công thức) tính tổng tiền truy thu, bồi thường từ sản lượng điện năng trộm cắp áp dụng đối với các đối tượng khách hàng:",
+        "options": [
+            "Tính cho khách hàng sinh hoạt khác với các khách hàng ngoài sinh hoạt",
+            "Tính chung cho tất cả các đối tượng khách hàng.",
+            "Tính cho khách hàng sinh hoạt và khách hàng kinh doanh khác với các đối tượng khách hàng còn lại.",
+            "Tính cho khách hàng sinh hoạt và khách hàng 100% sản xuất khác với các đối tượng khách hàng còn lại."
+        ],
+        "answer": "Tính cho khách hàng sinh hoạt khác với các khách hàng ngoài sinh hoạt"
+    },
+    {
+        "question": "Trong trường hợp khách hàng sử dụng điện sai mục đích có mức giá cao hơn mức giá đã thoả thuận trong hợp đồng, nếu không xác định rõ thời điểm vi phạm thì thời gian để tính bồi thường thiệt hại cho bên bán điện là bao nhiêu?",
+        "options": [
+            "365 ngày ",
+            "3 tháng",
+            "6 tháng",
+            "9 tháng"
+        ],
+        "answer": "365 ngày "
+    },
+    {
+        "question": "Trong trường hợp khách hàng sử dụng điện không thông báo cho bên bán điện khi giảm số hộ sử dụng điện dùng chung công tơ, bên mua điện phải trả cho bên bán điện số tiền chênh lệch trong thời gian vi phạm. Nếu không xác định rõ thời điểm vi phạm thì thời gian vi phạm được tính không quá bao nhiêu ngày?",
+        "options": [
+            "365 ngày ",
+            "9 tháng",
+            "3 tháng",
+            "6 tháng"
+        ],
+        "answer": "365 ngày "
+    },
+    {
+        "question": "Hành vi nào sau đây là một trong những hành vi vi phạm của bên mua điện?",
+        "options": [
+            "Tất cả các đáp án",
+            "Trộm cắp điện",
+            "Trì hoãn việc thực hiện hợp đồng đã ký gây thiệt hại cho bên bán điện.",
+            "Sử dụng điện sai mục đích có mức giá cao hơn mức giá đã thoả thuận trong hợp đồng."
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Đâu là một trong những hành vi vi phạm của bên mua điện?",
+        "options": [
+            "Tất cả các đáp án",
+            "Không kịp thời cắt điện hoặc giảm mức tiêu thụ điện khi nhận được thông báo của bên bán điện trong các trường hợp quy định tại Điều 27 Luật Điện lực.",
+            "Chậm thanh toán tiền điện",
+            "Không thông báo cho bên bán điện khi giảm số hộ sử dụng điện dùng chung công tơ hoặc giảm định mức sử dụng điện sinh hoạt."
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Biên bản kiểm tra sử dụng điện áp dụng đối với hoạt động kiểm tra do Kiểm tra viên điện lực thực hiện phải tuân theo quy định nào sau đây?",
+        "options": [
+            "Tất cả các đáp án",
+            "Biên bản phải có dấu treo của đơn vị trực tiếp quản lý Kiểm tra viên điện lực và đánh số thứ tự để quản lý",
+            "Biên bản đã sử dụng, kể cả biên bản ghi sai hoặc hủy bỏ đều phải được quản lý và lưu giữ đầy đủ theo quy định",
+            "Biên bản phải ghi rõ họ và tên người tham gia kiểm tra, đại diện của bên được kiểm tra và người chứng kiến (nếu có)"
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Đâu là một trong những nội dung kiểm tra hoạt động điện lực?",
+        "options": [
+            "Tất cả các đáp án",
+            "Kiểm tra điều kiện hoạt động điện lực đối với các lĩnh vực hoạt động được cấp phép hoạt động điện lực",
+            "Kiểm tra việc thực hiện các quy định về giá điện, mua bán điện (bao gồm cả ngừng, giảm mức cung cấp điện) và hợp đồng mua bán điện",
+            "Kiểm tra việc thực hiện các quy định về vận hành hệ thống điện"
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Trường hợp nào dưới đây là một trong những điều kiện để tiến hành kiểm tra đột xuất?  ",
+        "options": [
+            "Tất cả các đáp án",
+            "Có yêu cầu của cơ quan quản lý nhà nước có thẩm quyền",
+            "Khi có phản ánh của tổ chức, cá nhân về các dấu hiệu vi phạm các quy định của pháp luật về hoạt động điện lực, sử dụng điện, bảo vệ an toàn công trình điện lực và lưới điện",
+            "Phát hiện có dấu hiệu vi phạm các quy định của pháp luật về hoạt động điện lực, sử dụng điện, bảo vệ an toàn công trình điện lực và lưới điện"
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Trong trường hợp Kiểm tra viên điện lực gây thiệt hại khi thực hiện nhiệm vụ được giao theo quy định của pháp luật, cá nhân/tổ chức nào phải chịu trách nhiệm bồi thường?",
+        "options": [
+            "Tất cả các đáp án",
+            "Đơn vị trực tiếp quản lý Kiểm tra viên điện lực",
+            "Kiểm tra viên điện lực gây thiệt hại phải hoàn trả một khoản tiền tương ứng theo quy định của pháp luật cho đơn vị trực tiếp quản lý Kiểm tra viên điện lực (nếu có yêu cầu của đơn vị trực tiếp quản lý Kiểm tra viên điện lực)",
+            "nan"
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Trường hợp phát hiện có dấu hiệu vi phạm ngoài phạm vi nhiệm vụ được giao, Kiểm tra viên điện lực phải thực hiện như thế nào?",
+        "options": [
+            "Báo cáo kịp thời cho người trực tiếp quản lý để có hình thức kiểm tra phù hợp",
+            "Được quyền kiểm tra đột xuất nhưng phải báo cáo kịp thời cho người trực tiếp quản lý",
+            "Được quyền kiểm tra đột xuất và tự ý xử lý",
+            "Được quyền kiểm tra đột xuất sau đó báo cáo cho người trực tiếp quản lý"
+        ],
+        "answer": "Báo cáo kịp thời cho người trực tiếp quản lý để có hình thức kiểm tra phù hợp"
+    },
+    {
+        "question": "Trong quá trình kiểm tra sử dụng điện, nếu phát hiện hành vi trộm cắp điện, khi lập Biên bản kiểm tra sử dụng điện phải nêu rõ những nội dung nào sau đây:",
+        "options": [
+            "Tất cả các đáp án",
+            "Mô tả hành vi trộm cắp điện và các thông số liên quan tới việc tính toán, xử lý vi phạm",
+            "Vẽ sơ đồ trộm cắp điện",
+            "Các chứng cứ khác như phương tiện trộm cắp, ảnh chụp, băng ghi hình, dữ liệu điện tử khác (nếu có)"
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Sau thời gian thỏa thuận hoặc không quá bao nhiêu ngày, kể từ ngày chấp nhận yêu cầu bồi thường thiệt hại do vi phạm nghĩa vụ hợp đồng, nếu bên vi phạm không nộp tiền bồi thường thì phải chịu lãi suất chậm trả trên số tiền bồi thường thiệt hại?",
+        "options": [
+            "15 ngày",
+            "7 ngày",
+            "10 ngày",
+            "14 ngày"
+        ],
+        "answer": "15 ngày"
+    },
+    {
+        "question": "Sau bao nhiêu ngày, kể từ ngày nhận được thông báo yêu cầu nộp tiền phạt vi phạm hợp đồng, nếu bên vi phạm không nộp tiền phạt thì phải chịu lãi suất chậm trả trên số tiền phạt?",
+        "options": [
+            "15 ngày",
+            "10 ngày",
+            "14 ngày",
+            "7 ngày"
+        ],
+        "answer": "15 ngày"
+    },
+    {
+        "question": "Đâu là một trong những nội dung kiểm tra sử dụng điện?",
+        "options": [
+            "Kiểm tra việc thực hiện các nghĩa vụ ghi trong hợp đồng mua bán điện và các nghĩa vụ khác được quy định trong Luật Điện lực (đã được sửa đổi, bổ sung) và văn bản hướng dẫn thi hành",
+            "Kiểm tra việc thực hiện các quy định về hành lang bảo vệ an toàn lưới điện cao áp",
+            "Kiểm tra việc thực hiện các quy định về bảo vệ an toàn đường dây dẫn điện trên không",
+            "Kiểm tra việc thực hiện các quy định về bảo vệ an toàn đường cáp điện ngầm"
+        ],
+        "answer": "Kiểm tra việc thực hiện các nghĩa vụ ghi trong hợp đồng mua bán điện và các nghĩa vụ khác được quy định trong Luật Điện lực (đã được sửa đổi, bổ sung) và văn bản hướng dẫn thi hành"
+    },
+    {
+        "question": "Những đối tượng khách hàng nào sau đây là khách hàng sử dụng điện quan trọng được ưu tiên cấp điện khi bên bán điện thực hiện ngừng, giảm mức cung cấp điện?",
+        "options": [
+            "Cả 3 đáp án đều không đúng",
+            "Khách hàng không thuộc diện ưu tiên được UBND tỉnh, thành phố trực thuộc TW xác định căn cứ vào tầm quan trọng về an ninh, quốc phòng",
+            "Khách hàng không thuộc diện ưu tiên được UBND tỉnh, thành phố trực thuộc TW xác định căn cứ vào tầm quan trọng về chính trị, xã hội",
+            "Khách hàng có sản lượng điện tiêu thụ bình quân từ 3.000.000kWh/tháng trở lên"
+        ],
+        "answer": "Cả 3 đáp án đều không đúng"
+    },
+    {
+        "question": "Khi ngừng, giảm mức cung cấp điện không khẩn cấp, bên bán điện phải thông báo cho bên mua điện biết trước thời điểm ngừng, giảm mức cung cấp điện ít nhất trong thời gian bao lâu?",
+        "options": [
+            "05 ngày",
+            "02 ngày",
+            "03 ngày",
+            "04 ngày"
+        ],
+        "answer": "05 ngày"
+    },
+    {
+        "question": "Trường hợp không thực hiện ngừng, giảm mức cung cấp điện theo nội dung thông báo, bên bán điện có trách nhiệm thông báo lại cho bên mua điện trước thời điểm ngừng, giảm cung cấp điện đã thông báo ít nhất trong thời gian bao lâu?",
+        "options": [
+            "24 giờ",
+            "01 giờ",
+            "02 giờ",
+            "12 giờ"
+        ],
+        "answer": "24 giờ"
+    },
+    {
+        "question": "Trường hợp bên mua điện có đề nghị thay đổi thời gian ngừng, giảm mức cung cấp điện đã được thông báo thì phải trao đổi với bên bán điện trước thời điểm ngừng, giảm mức cung cấp điện ít nhất trong thời gian bao lâu?",
+        "options": [
+            "48 giờ",
+            "12 giờ",
+            "24 giờ",
+            "02 giờ"
+        ],
+        "answer": "48 giờ"
+    },
+    {
+        "question": "Trường hợp thời gian cấp điện trở lại bị chậm so với thời gian đã thông báo từ 01 giờ trở lên, bên bán điện phải thông báo cho khách hàng có sản lượng mua điện trung bình trên 100.000kWh/tháng và khách hàng sử dụng điện quan trọng biết thời gian cấp điện trở lại theo phương án nào dưới đây?",
+        "options": [
+            "Điện thoại hoặc hình thức thông báo khác do hai bên thỏa thuận trong hợp đồng mua bán điện",
+            "Các phương tiện thông tin đại chúng",
+            "Văn bản, thư điện tử, email  ",
+            "Điện báo, fax, tin nhắn (SMS)"
+        ],
+        "answer": "Điện thoại hoặc hình thức thông báo khác do hai bên thỏa thuận trong hợp đồng mua bán điện"
+    },
+    {
+        "question": "Kể từ thời điểm thực hiện ngừng, giảm mức cung cấp điện khẩn cấp thì trong thời gian bao lâu bên bán điện phải thông báo cho khách hàng biết nguyên nhân, phạm vi ảnh hưởng, thời gian dự kiến cấp điện trở lại?",
+        "options": [
+            "24 giờ",
+            "08 giờ",
+            "12 giờ",
+            "02 giờ"
+        ],
+        "answer": "24 giờ"
+    },
+    {
+        "question": "Tại một địa điểm đăng ký mua điện, bên mua điện là một hộ gia đình được ký bao nhiêu hợp đồng? ",
+        "options": [
+            "Chỉ được ký 01 hợp đồng",
+            "Được ký tối đa 02 hợp đồng",
+            "Được ký nhiều hợp đồng theo từng thành viên trong hộ gia đình",
+            "Được ký số hợp đồng theo thỏa thuận."
+        ],
+        "answer": "Chỉ được ký 01 hợp đồng"
+    },
+    {
+        "question": "Bên mua điện chậm trả tiền điện sau 15 ngày kể từ ngày nhận được thông báo thanh toán tiền điện lần đầu tiên sẽ bị xử lý như thế nào?",
+        "options": [
+            "Tất cả các đáp án",
+            "Phải trả tiền lãi của khoản tiền chậm trả theo quy định",
+            "Bị phạt vi phạm hợp đồng theo thỏa thuận trong hợp đồng mua bán điện",
+            "Bị ngừng cung cấp điện theo quy định"
+        ],
+        "answer": "Tất cả các đáp án"
+    },
+    {
+        "question": "Hóa đơn thanh toán tiền điện được lập như thế nào?",
+        "options": [
+            "Theo chu kỳ ghi chỉ số công tơ điện",
+            "Lập theo tháng, mỗi tháng 01 lần",
+            "Lập mỗi tháng 02 lần",
+            "Được lập theo thỏa thuận của hai bên trong hợp đồng mua bán điện"
+        ],
+        "answer": "Theo chu kỳ ghi chỉ số công tơ điện"
+    },
+    {
+        "question": "Điện lực có quyền đơn phương chấm dứt hợp đồng mua bán điện phục vụ mục đích sinh hoạt khi Bên mua điện không sử dụng điện liên tục mấy tháng mà không thông báo trước?",
+        "options": [
+            "Quá 06 tháng",
+            "Không quá 03 tháng",
+            "Không quá 05 tháng",
+            "Không quá 06 tháng"
+        ],
+        "answer": "Quá 06 tháng"
+    },
+    {
+        "question": "Trường hợp Khách hàng mua bán điện phục vụ mục đích sinh hoạt không đồng ý với số tiền điện phải thanh toán và không thanh toán tiền điện theo chứng từ do Bên bán điện phát hành, thì Bên bán điện phải làm gì?",
+        "options": [
+            "Có quyền ngừng cấp điện theo quy định",
+            "Đề nghị Sở Công Thương giải quyết và trong khi chờ giải quyết không được ngừng cấp điện",
+            "Đề nghị Tòa án có thẩm quyền giải quyết và  trong khi chờ giải quyết không được ngừng cấp điện",
+            "Đề nghị Trọng tài giải quyết và  trong khi chờ giải quyết không được ngừng cấp điện"
+        ],
+        "answer": "Có quyền ngừng cấp điện theo quy định"
+    },
+    {
+        "question": "Giá trị bảo đảm thực hiện hợp đồng mua bán điện áp dụng với khách hàng mua điện ngoài sinh hoạt có thời hạn dưới 01 tháng như thế nào?",
+        "options": [
+            "Bằng sản lượng điện tương ứng theo số ngày khách hàng đăng ký sử dụng nhân với giá bán điện giờ bình thường",
+            "Bằng sản lượng điện tương ứng 10 ngày khách hàng đăng ký sử dụng nhân với giá bán điện giờ bình thường",
+            "Bằng sản lượng điện tương ứng 15 ngày khách hàng đăng ký sử dụng nhân với giá bán điện giờ bình thường",
+            "Bằng sản lượng điện tương ứng 30 ngày khách hàng đăng ký sử dụng nhân với giá bán điện giờ bình thường"
+        ],
+        "answer": "Bằng sản lượng điện tương ứng theo số ngày khách hàng đăng ký sử dụng nhân với giá bán điện giờ bình thường"
+    },
+    {
+        "question": "Giá trị bảo đảm thực hiện hợp đồng mua bán điện áp dụng với khách hàng mua điện ngoài sinh hoạt có thời hạn từ 01 tháng đến dưới 12 tháng như thế nào?",
+        "options": [
+            "Bằng sản lượng điện tương ứng 45 ngày khách hàng đăng ký sử dụng nhân với giá bán điện giờ bình thường",
+            "Bằng sản lượng điện tương ứng 15 ngày khách hàng đăng ký sử dụng nhân với giá bán điện giờ bình thường",
+            "Bằng sản lượng điện tương ứng 01 tháng khách hàng đăng ký sử dụng nhân với giá bán điện giờ bình thường",
+            "Do hai bên thỏa thuận"
+        ],
+        "answer": "Bằng sản lượng điện tương ứng 45 ngày khách hàng đăng ký sử dụng nhân với giá bán điện giờ bình thường"
+    },
+    {
+        "question": "Theo quy trình kinh doanh, thời hạn bảo đảm thực hiện hợp đồng mua bán điện được quy định như thế nào?",
+        "options": [
+            "Bằng thời hạn Hợp đồng cộng thêm 15 ngày làm việc",
+            "Bằng thời hạn Hợp đồng",
+            "Bằng thời hạn Hợp đồng cộng thêm 30 ngày",
+            "Thời hạn do các Bên thỏa thuận"
+        ],
+        "answer": "Bằng thời hạn Hợp đồng cộng thêm 15 ngày làm việc"
+    },
+    {
+        "question": "Đối với những khoản nợ có giá trị từ bao nhiêu thì cần làm việc với khách hàng để thực hiện thanh toán qua ngân hàng ",
+        "options": [
+            "20 triệu đồng trở lên",
+            "25 triệu đồng trở lên",
+            "30 triệu đồng trở lên",
+            "Giá trị do các bên thỏa thuận"
+        ],
+        "answer": "20 triệu đồng trở lên"
+    },
+    {
+        "question": "Thời gian cho phép thu ngân viên ở các tỉnh đồng bằng lưu giữ hóa đơn và tiền điện tương ứng là bao nhiêu ngày?",
+        "options": [
+            "01 ngày",
+            "02 ngày",
+            "03 ngày",
+            "Không quy định"
+        ],
+        "answer": "01 ngày"
+    },
+    {
+        "question": "Thời gian cho phép thu ngân viên ở các vùng sâu, vùng xa lưu giữ hóa đơn và tiền điện tương ứng là bao nhiêu ngày?",
+        "options": [
+            "Không quá 03 ngày",
+            "02 ngày",
+            "03 ngày",
+            "Không quy định"
+        ],
+        "answer": "Không quá 03 ngày"
+    },
+    {
+        "question": "Theo quy định hiện hành Bên bán điện thông báo thanh toán tiền điện cho bên mua điện theo hình thức nào?",
+        "options": [
+            "Các hình thức do hai bên thỏa thuận trong hợp đồng mua bán điện",
+            "Chỉ được thông báo bằng văn bản",
+            "Chỉ được thông báo bằng thư điện tử, tin nhắn SMS",
+            "Chỉ được thông báo bằng phương tiện thông tin đại chúng"
+        ],
+        "answer": "Các hình thức do hai bên thỏa thuận trong hợp đồng mua bán điện"
+    },
+    {
+        "question": "Nội dung thông báo ngừng, giảm mức cung cấp điện bao gồm?",
+        "options": [
+            "Tất cả các đáp án",
+            "Địa điểm ngừng, giảm mức cung cấp điện; mức công suất giảm hoặc khả năng cung cấp tối đa trong trường hợp giảm mức cung cấp điện",
+            "Lý do ngừng, giảm mức cung cấp điện",
+            "Thời gian bắt đầu ngừng, giảm mức cung cấp điện và thời điểm dự kiến đóng điện trở lại hoặc bảo đảm mức cung cấp điện bình thường"
+        ],
+        "answer": "Tất cả các đáp án"
+    }
+]
